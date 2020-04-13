@@ -9,7 +9,7 @@ name: Scientists for Future Leipzig
 description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/s4f_logo_leipzig.png
+avatar: images/s4f_logo_leipzig.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: /images/s4f_logo_leipzig.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: s4f-leipzig@gmx.de
+  email:
   facebook: scientists4futureLeipzig
   flickr:
   github:
@@ -47,8 +47,8 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: s4f-leipzig.de
-#
+baseurl: "/s4f-leipzig.de"
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
