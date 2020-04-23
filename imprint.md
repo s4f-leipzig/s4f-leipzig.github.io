@@ -11,7 +11,7 @@ Franckestraße 7<br/>
 04318 Leipzig<br/>
 Deutschland
 
-E-Mail: s3f-leipzig@gmx.de<br/>
+E-Mail: leipzig@scientists3future.org<br/>
 (Die E-Mail Adresse ist zur Vermeidung von Spam verfremdet; bitte ersetzen Sie jede „3“ durch eine „4“)
 
 
