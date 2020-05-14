@@ -1,41 +1,46 @@
-- id: gallery1
-  description: This is the first gallery
-  imagefolder: /img/demopage
-  images:
-  - name: image-1.jpg
-    thumb: thumb-1.jpg
-    text: The first image
-  - name: image-2.jpg
-    thumb: thumb-2.jpg
-    text: The second image
-  - name: image-3.jpg
-    thumb: thumb-3.jpg
-    text: The third image
-- id: anothergallery
-  description: This is even another gallery!
-  imagefolder: /img/demopage
-  images:
-  - name: image-4.jpg
-    thumb: thumb-4.jpg
-    text: Another gallery, first image
-  - name: image-5.jpg
-    thumb: thumb-5.jpg
-    text: Another gallery, second image
-  - name: image-6.jpg
-    thumb: thumb-6.jpg
-    text: Another gallery, third image
-
 - id: 24hoursofscience
   description: "#24HoursOfScience"
   imagefolder: /galleries/24hoursofscience
   images:
-  - name: 00_Twitter-24h-01.png
-    thumb: Thumb-Header-Insta.png
+  - name: 00.png
+    thumb: Thumb.png
     show: True
     text: "Los geht’s: 24 Stunden, 24 Posts, 24 Geschichten, Anregungen und spannende Fakten aus der Wissenschaft! #24HoursOfScience #NetzstreikFürsKlima #FightEveryCrisis"
-  - name: 01_Klimawandel_Leipzig.jpg
-    thumb: None
+  - name: 01.jpg
     show: False
     text: "Auch in Leipzig wirkt sich der Klimawandel bereits aus, wie der deutliche Anstieg der Durchschnittstemperatur zeigt. <br>
            Wenn wir nicht entschlossen handeln, wird sich dieser Trend in Zukunft noch weiter verschärfen! <br>
-           <a target='_blank' href='https://meteo.physgeo.uni-leipzig.de/de/wetterdaten/zeitreihen.php'>Quelle LIMt</a>"
+           <a target='_blank' href='https://meteo.physgeo.uni-leipzig.de/de/wetterdaten/zeitreihen.php'>Quelle LIM</a>"
+  - name: 02.png
+    show: False
+    text: ""
+  - name: 03.png
+    show: False
+    text: ""
+  - name: 04.png
+    show: False
+    text: ""
+  - name: 05.jpg
+    show: False
+    text: ""
+  - name: 06.jpg
+    show: False
+    text: ""
+  - name: 07.jpg
+    show: False
+    text: ""
+  - name: 08.png
+    show: False
+    text: ""
+  - name: 09.jpg
+    show: False
+    text: ""
+  - name: 10-1.jpg
+    show: False
+    text: ""
+  - name: 10-2.jpg
+    show: False
+    text: ""
+  - name: 11.jpg
+    show: False
+    text: ""
