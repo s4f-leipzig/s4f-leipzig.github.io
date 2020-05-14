@@ -1,7 +1,7 @@
-# ---
+---
 layout: page
-title: Impressung
-permalink: /imprint/
+title: Impressum
+permalink: /impressum
 ---
 
 ## Verantwortlich gemäß § 5 TMG und für den Inhalt nach § 55 Abs. 2 RStV
