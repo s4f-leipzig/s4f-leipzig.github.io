@@ -46,7 +46,8 @@ body.lb-disable-scrolling {
   height: 250px;
   margin: 0 auto;
   border-radius: 4px;
-
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
   /* Background color behind image.
      This is visible during transitions. */
   background-color: white;
@@ -143,6 +144,7 @@ body.lb-disable-scrolling {
   width: 100%;
   border-bottom-left-radius: 4px;
   border-bottom-right-radius: 4px;
+  background-color: white;
 }
 
 .lb-dataContainer:after {
@@ -153,7 +155,7 @@ body.lb-disable-scrolling {
 
 .lb-data {
   padding: 0 4px;
-  color: #ccc;
+  color: #000000;
 }
 
 .lb-data .lb-details {

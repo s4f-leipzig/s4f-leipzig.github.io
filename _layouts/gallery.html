@@ -19,9 +19,7 @@ layout: default
           <img src="{{ gallery.imagefolder }}/{{ image.thumb }}">
         </a>
       {% else %}
-        <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}" style="display: none;">
-          <img src="{{ gallery.imagefolder }}/{{ image.thumb }}">
-        </a>
+        <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}" style="display: none;"></a>
       {% endif %}
     {% endfor %}
     </ol>
