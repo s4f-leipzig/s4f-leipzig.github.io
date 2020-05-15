@@ -1,0 +1,46 @@
+- id: 24hoursofscience
+  description: "#24HoursOfScience"
+  imagefolder: /galleries/24hoursofscience
+  images:
+  - name: 00.png
+    thumb: Thumb.png
+    show: True
+    text: "Los geht’s: 24 Stunden, 24 Posts, 24 Geschichten, Anregungen und spannende Fakten aus der Wissenschaft! #24HoursOfScience #NetzstreikFürsKlima #FightEveryCrisis"
+  - name: 01.jpg
+    show: False
+    text: "Auch in Leipzig wirkt sich der Klimawandel bereits aus, wie der deutliche Anstieg der Durchschnittstemperatur zeigt. <br>
+           Wenn wir nicht entschlossen handeln, wird sich dieser Trend in Zukunft noch weiter verschärfen! <br>
+           <a target='_blank' href='https://meteo.physgeo.uni-leipzig.de/de/wetterdaten/zeitreihen.php'>Quelle LIM</a>"
+  - name: 02.png
+    show: False
+    text: ""
+  - name: 03.png
+    show: False
+    text: ""
+  - name: 04.png
+    show: False
+    text: ""
+  - name: 05.jpg
+    show: False
+    text: ""
+  - name: 06.jpg
+    show: False
+    text: ""
+  - name: 07.jpg
+    show: False
+    text: ""
+  - name: 08.png
+    show: False
+    text: ""
+  - name: 09.jpg
+    show: False
+    text: ""
+  - name: 10-1.jpg
+    show: False
+    text: ""
+  - name: 10-2.jpg
+    show: False
+    text: ""
+  - name: 11.jpg
+    show: False
+    text: ""
