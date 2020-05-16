@@ -5,42 +5,61 @@
   - name: 00.png
     thumb: Thumb.png
     show: True
-    text: "Los geht’s: 24 Stunden, 24 Posts, 24 Geschichten, Anregungen und spannende Fakten aus der Wissenschaft! #24HoursOfScience #NetzstreikFürsKlima #FightEveryCrisis"
+    text: "Los geht’s: 24 Stunden, 24 Posts, 24 Geschichten, Anregungen und spannende Fakten aus der Wissenschaft! <br>
+    #24HoursOfScience #NetzstreikFürsKlima #FightEveryCrisis"
   - name: 01.jpg
-    show: False
     text: "Auch in Leipzig wirkt sich der Klimawandel bereits aus, wie der deutliche Anstieg der Durchschnittstemperatur zeigt. <br>
-           Wenn wir nicht entschlossen handeln, wird sich dieser Trend in Zukunft noch weiter verschärfen! <br>
-           <a target='_blank' href='https://meteo.physgeo.uni-leipzig.de/de/wetterdaten/zeitreihen.php'>Quelle LIM</a>"
+    Wenn wir nicht entschlossen handeln, wird sich dieser Trend in Zukunft noch weiter verschärfen! <br>
+    <a target='_blank' href='https://meteo.physgeo.uni-leipzig.de/de/wetterdaten/zeitreihen.php'>Daten vom Leipziger Institut für Meteorologie</a>"
   - name: 02.png
-    show: False
-    text: ""
+    text: "Unser Auwald ist eine wichtige CO2-Senke und muss erhalten werden. Vom Trockenfallen des Waldes profitieren standortfremde Arten wie der Berg-Ahorn. Renaturierungsprojekte wie <a target='_blank' href='https://lebendige-luppe.de'>Lebendige Luppe</a> sind wichtig für den Erhalt der Biodiversität."
   - name: 03.png
-    show: False
     text: ""
   - name: 04.png
-    show: False
-    text: ""
+    text: "Der Vergleich der Warmingstripes zeigt deutlich wie viel schneller und stärker sich die Arktis erwärmt: die letzten Jahre haben die Farbskala bereits gesprengt. <br>
+    <a target='_blank' href='https://showyourstripes.info/'>Showyourstripes</a>"
   - name: 05.jpg
-    show: False
-    text: ""
+    text: "Der Steinkohlekohleabbau hat die Natur für immer verändert. Die Folgekosten des Bergbaus in Höhe von 220 Millionen Euro pro Jahr werden bis in alle Ewigkeit anfallen, weshalb man sie Ewigkeitskosten nennt."
   - name: 06.jpg
-    show: False
-    text: ""
+    text: "Als erster Mensch entdeckte Eunice Foote im Jahr 1856 den Zusammenhang zwischen CO2 und der Erwärmung der Atmosphäre und somit die Grundlagen des Treibhauseffektes. Da diese Erkenntnisse von einer Frau kamen, wurden sie jedoch mehr als ein Jahrhundert nicht anerkannt. Bis heute wird die Entdeckung dieses Zusammenhangs fälschlicherweise häufig John Tyndrall und seiner Veröffentlichung aus dem Jahr 1862 zugeschrieben."
   - name: 07.jpg
-    show: False
-    text: ""
+    text: "Maskentragen hilft und wenn man es sowieso machen muss, kann man auch die Chance nutzen, um Klimabotschaften unter die Mitmenschen zu bringen. Vielleicht kommt man so sogar miteinander ins Gespräch (mit 1.5m Abstand natürlich)"
   - name: 08.png
-    show: False
-    text: ""
+    text: "Der Anteil erneuerbarer Energien an Sachsens Stromerzeugung lag 2016 bei gerade einmal 12,8 %. Alle Zahlen findet ihr <a target='_blank' href='https://publikationen.sachsen.de/bdb/artikel/32939/documents/50181'>hier</a>."
   - name: 09.jpg
-    show: False
-    text: ""
+    text: "Klimamodellierung hilft bei der Abschätzung der künftigen Temperaturentwicklung in Abhängigkeit der Treibhausgasemissionen. Für Deutschland zeigt der erhaltene Temperaturbereich eine Erwärmung um 2-6 °C. Das muss verhindert werden!"
   - name: 10-1.jpg
-    show: False
-    text: ""
+    text: "Radfahren macht Spaß, ist gut für die Gesundheit und auch fürs Klima! Innerhalb von Leipzig kommt man außerdem fix von A nach B! <br>
+    ..."
   - name: 10-2.jpg
-    show: False
-    text: ""
+    text: "... Auch mit dem Rennrad!"
   - name: 11.jpg
-    show: False
+    text: "Für die Menge CO2, die auf einem Linienflug von Leipzig nach Köln emittiert wird, könnte man mit dem Auto nach Rom und mit dem Zug nach Sevilla und zurück(!) fahren."
+  - name: 12.jpg
     text: ""
+  - name: 13.jpg
+    text: "Die Ewigkeitskosten entstehen durch die Ewigkeitsaufgaben: Grubenwasserhaltung, Poldermaßnahmen und Grundwasserreinigung. Durch den Abbau hat sich das Deckgebirge bis zu 25m abgesenkt, ohne Pumpen würden diese Senken volllaufen."
+  - name: 14.jpg
+    text: "Eis an Land ist schwer und durch Graviation zieht es das Meerwasser leicht zu sich. Schmilzt nun das Eis, steigt der Meerespiegel zwar im Schnitt an. Da das Wasser nicht mehr Richtung Land gezogen wird, kann der Meerespiegel in der Gegend des abgeschmolzenen Eises wirklich sinken. Schmilzt das Eis der Antartkis steigt der Meerespiegel auf der Nordhalbkugel, wohingegen der Meerespiegel der Südhalbkugel steigen würde, wenn Grönland abschmilzt."
+  - name: 15.jpg
+    text: "Klimawandel führt zur Zunahme von Dürreperioden wie sie bereits 2018/19 spürbar waren. Auch 2020 hat sich bereits in Teilen Deutschlands eine #Dürre etabliert. Aktuelle Dürreinformationen vom <a target='_blank' href='https://www.ufz.de/index.php?de=37937'>UFZ Dürremonitor</a>"
+  - name: 16.jpg
+    text: "Langwierige Genehmigungsverfahren, Abstandsregeln, Bürgerproteste und Klagen bremsen den Ausbau der Windenergie deutlich aus. Aber ohne einen weiteren Ausbau der Windenergie können die Klimaziele nicht erreicht werden!"
+  - name: 17.png
+    text: "Wer das Klima schützt, schützt nicht nur unseren Planeten, die positiven Nebenwirkungen von Klimaschutz kommen uns auch ganz persönlich zugute, hier am Beispiel des Fahrradfahrens."
+  - name: 18.png
+    text: ""
+  - name: 19.jpg
+    text: "Grubenwasser ist sehr salzhaltig und enhält häufig auch Eisen-, Nickel- und Manganverbindungen. Würden die Pumpen stoppen und das Grubenwasser steigen, könnte es auch in das Grundwasser, die Quelle unseres Trinkwassers, gelangen."
+  - name: 20.jpg
+    text: "Für dieses Jahrzehnt kann das Gaskraftwerk die Lücke aus einem schnellen Kohleausstieg füllen und garantiert die Versorgungssicherheit. Bis 2035 müssen wir aber auch in der Fernwärme klimaneutral sein. Dazu brauchen wir in erster Linie erneuerbare Energie. Fossile Brennstoffe müssen auslaufen und erneuerbarer Wasserstoff kann maximal für Lastspitzen eine Lösung sein, zur Wärmeerzeugung ist er viel zu teuer und ineffizient."
+  - name: 21.jpg
+    text: "Mit Fortschreiten des Klimawandels droht auch bei uns eine weitere Zunahme in der Anzahl & Stärke von Extremwetterereignissen wie Starkregen mit Überschwemmungen, Hitzewellen und Dürren samt Waldbränden und heftigeren Stürmen."
+  - name: 22.png
+    text: "Bereits im Jahr 1908 sagte der schwedische Wissenschaftler Svante Arrhenius die globale Erwärmung erstaunlich genau voraus – nur bei der Geschwindigkeit lag er etwas daneben."
+  - name: 23.jpg
+    text: "Diesen Sommer wird der sogenannte Solardeckel erreicht. Dann entfällt jegliche Förderung für neue PV-Anlagen bis 750 kW. Das bremst den Ausbau erneuerbarer Energien, erschwert die Teilhabe von Privatpersonen an der #Energiewende und gefährdet Arbeitsplätze."
+  - name: 24.jpg
+    text: "<a target='_blank' href='https://mosaic-expedition.org/'>MOSAiC</a> soll eine solide wissenschaftliche Grundlage für politische Entscheidungen zur Eindämmung und Anpassung an den Klimawandel schaffen. Auch Leipziger Wissenschaftler*innen haben sich mit der Polarstern einfrieren lassen."
+  # - name: 25.jpg
+  #   text: ""
