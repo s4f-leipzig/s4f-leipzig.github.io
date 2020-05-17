@@ -11,6 +11,9 @@ layout: default
         <div class="entry">
           {{ post.content }}
         </div>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <img src="{{ post.thumb }}">
+        </a>
 
         <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
       </article>
