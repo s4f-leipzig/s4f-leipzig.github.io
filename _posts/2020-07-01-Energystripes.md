@@ -1,7 +1,7 @@
 ---
 title: "Energystripes"
 layout: post
-category: None
+category: News
 ---
 
 Kohleausstieg bis 2038? Milliarden-Abfindungen an die Kohlekonzerne? Da hat wohl jemand gute Lobbyarbeit geleistet. Denn: Durch den Ausbau erneuerbarer Energiequellen ist es sehr wahrscheinlich, dass Strom aus Braun- und Steinkohle schon deutlich früher unwirtschaftlich sein wird. Wie stark der Anteil erneuerbarer Energien an der deutschen Stromproduktion in den letzten Jahren zugenommen hat, wollen wir euch in dieser Abbildung einmal zeigen.
