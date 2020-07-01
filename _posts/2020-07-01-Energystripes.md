@@ -20,4 +20,4 @@ Den Code zum selber Plotten findet ihr auf unserer [Github seite](https://github
 
 ---
 
-*Die Abbildung ist von einem Artikel [des Guardian](https://www.theguardian.com/business/2020/apr/28/britain-breaks-record-for-coal-free-power-generation) inspiriert*
+*Die Abbildung ist von einem Artikel [des Guardian](https://www.theguardian.com/business/2020/apr/28/britain-breaks-record-for-coal-free-power-generation) inspiriert.*
