@@ -16,7 +16,7 @@ Eine Stellungname der [Scientists for Future](https://www.scientists4future.org/
 [Ein teuer erkaufter, zu langsamer Kohleausstieg](https://www.scientists4future.org/infomaterial/infos-fuer-medienschaffende/ein-teuer-erkaufter-zu-langsamer-kohleausstieg/
 )
 
-Den Code zum selber Plotten findet ihr auf unserer [Github seite](https://github.com/s4f-leipzig/Energystripes).
+Den Code zum selber Plotten findet ihr auf unserer [Github-Seite](https://github.com/s4f-leipzig/Energystripes).
 
 ---
 
