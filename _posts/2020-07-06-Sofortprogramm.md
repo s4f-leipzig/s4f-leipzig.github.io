@@ -1,7 +1,7 @@
 ---
 title: "Stellungnahme anlässlich der klimapolitischen Stunde im Stadtrat und der Entscheidung zum Sofortprogramm"
 layout: post
-category: None
+category: News
 ---
 ### Scientists for Future Leipzig fordert ambitionierte Maßnahmen für den Klimaschutz
 
