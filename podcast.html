@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
+<h1><a href="https://interviews-4-future.podigee.io/" target="_blank">Podcast der S4F-Leipzig</a></h1>
+
 <div class="posts">
   {% for post in site.posts %}
     {% if post.categories contains 'Podcast' %}
       <article class="post">
 
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
         <div class="entry">
           {{ post.content }}
