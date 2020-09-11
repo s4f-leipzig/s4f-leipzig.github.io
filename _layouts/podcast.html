@@ -1,36 +1,63 @@
 ---
 layout: default
 ---
+<h1><a href="https://interviews-4-future.podigee.io/" target="_blank">Podcast der S4F-Leipzig</a></h1>
 
-<article class="post">
+<div class="row">
+
+  <div class="column left">
+
+    <article class="post">
 
 
-  <h1>{{ page.title }}</h1>
+      <h2>{{ page.title }}</h2>
 
-  <div class="entry">
-    {{ content }}
+      <div class="entry">
+        {{ content }}
+      </div>
+
+      <div class="date">
+        <!-- Geschrieben am -->
+          {% assign m = page.date | date: "%-m" %}
+          {{ page.date | date: "%-d." }}
+          {% case m %}
+            {% when '1' %}Januar
+            {% when '2' %}Februar
+            {% when '3' %}M&auml;rz
+            {% when '4' %}April
+            {% when '5' %}Mai
+            {% when '6' %}Juni
+            {% when '7' %}Juli
+            {% when '8' %}August
+            {% when '9' %}September
+            {% when '10' %}Oktober
+            {% when '11' %}November
+            {% when '12' %}Dezember
+          {% endcase %}
+          {{ page.date | date: "%Y" }}
+      </div>
+    </article>
   </div>
+  <div class="column right">
+    <div class="widget">
+      <a href="https://wissenschaftspodcasts.de/">
+           <img alt="wissenschaftspodcasts.de"
+           src="https://wissenschaftspodcasts.de/site/assets/files/21359/logo-wisspod-hell.png">
+      </a>
+    </div>
 
-  <div class="date">
-    <!-- Geschrieben am -->
-      {% assign m = page.date | date: "%-m" %}
-      {{ page.date | date: "%-d." }}
-      {% case m %}
-        {% when '1' %}Januar
-        {% when '2' %}Februar
-        {% when '3' %}M&auml;rz
-        {% when '4' %}April
-        {% when '5' %}Mai
-        {% when '6' %}Juni
-        {% when '7' %}Juli
-        {% when '8' %}August
-        {% when '9' %}September
-        {% when '10' %}Oktober
-        {% when '11' %}November
-        {% when '12' %}Dezember
-      {% endcase %}
-      {{ page.date | date: "%Y" }}
+    <div class="widget">
+      <h4>Lizenz</h4>
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
+      </a>
+      <br/>
+      Dieses Werk ist lizenziert unter einer
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz
+      </a>
+    </div>
   </div>
+</div>
 
-  {% include disqus.html %}
-</article>
+{% include disqus.html %}

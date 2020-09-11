@@ -1,12 +1,7 @@
 ---
-layout: default
+layout: podcast
 ---
 
-<h1><a href="https://interviews-4-future.podigee.io/" target="_blank">Podcast der S4F-Leipzig</a></h1>
-
-<div class="row">
-
-  <div class="column left">
     <div class="posts">
       {% for post in site.posts %}
         {% if post.categories contains 'Podcast' %}
@@ -43,25 +38,3 @@ layout: default
         {% endif %}
       {% endfor %}
     </div>
-  </div>
-  <div class="column right">
-    <div class="widget">
-      <a href="https://wissenschaftspodcasts.de/">
-           <img alt="wissenschaftspodcasts.de"
-           src="https://wissenschaftspodcasts.de/site/assets/files/21359/logo-wisspod-hell.png">
-      </a>
-    </div>
-
-    <div class="widget">
-      <h4>Lizenz</h4>
-      <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
-        <img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
-      </a>
-      <br/>
-      Dieses Werk ist lizenziert unter einer
-      <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
-        Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz
-      </a>
-    </div>
-  </div>
-</div>
