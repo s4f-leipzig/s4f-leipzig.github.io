@@ -335,7 +335,7 @@ footer {
   display: block;
   width: 100%;
   height: auto;
-  transition: .5s ease;
+  transition: 1s ease;
   backface-visibility: hidden;
 }
 
@@ -350,8 +350,16 @@ footer {
   text-align: center;
 }
 
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 1;
+}
+
 .imgcontainer:hover .image {
-  opacity: 0.3;
+  opacity: 1;
 }
 
 .imgcontainer:hover .middle {
