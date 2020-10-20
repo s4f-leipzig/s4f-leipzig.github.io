@@ -15,5 +15,4 @@ Moderation: Dominic Memmel (S4F Leipzig) <br>
 EINTRITT FREI <br>
 
 ## Stream
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZhXZAD_1LS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include yt-emb.html  yt-id="ZhXZAD_1LS0" %}
