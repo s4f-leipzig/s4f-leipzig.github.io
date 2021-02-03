@@ -1,0 +1,16 @@
+---
+layout: post
+title: Das Wetterjahr 2020
+category: Wetter
+---
+
+Auch das Jahr 2020 hinterlässt in den deutschen #warmingstripes wieder einen tiefroten Streifen, denn mit einer Durchschnittstemperatur von 10,4 °C lag es insgesamt 2,2 K über dem langjährigen Mittel 1961-1990 und war somit nach 2018 (+2,5 K) das zweitwärmste Jahr seit Aufzeichnungsbeginn vor 140 Jahren. Auf den Plätzen folgen 2019 und 2014 mit 2,1 K, sodass die letzten 3 Jahre allesamt zu wärmsten hierzulande gehören und damit einen eindeutigen Hinweis auf die Auswirkungen der Klimakrise geben! 
+Hinsichtlich des Temperaturverlaufs legte 2020 fast eine Kopie des Vorjahres hin. Einem extrem milden Jahresstart mit einem je 4-5 K zu warmen Januar und Februar folgten zwei ebenfalls viel zu milde Frühjahrsmonate (2-3K zu warm), während der Mai erneut recht kühl ausfiel, wenngleich dies für 2020 „nur“ einem normaltemperierten Monat entspricht, während 2019 sogar 1 K zu kalt ausfiel. Die folgenden beiden Sommermonate waren hingegen wieder recht warm mit einer positiven Anomalie von 1-2K, die von einem extrem warmen August (+3,5 K) gekrönt wurden, der jedoch keine neuen Hitzerekorde aufstellte. Das Jahr ging dann schließlich mit jeweils ungefähr um die 2 K zu warmen Monaten zu Ende, ohne das man im Tiefland wirklichen einen Wintereindruck bekam.
+
+Beim Niederschlag erlebte Deutschland das dritte zu trockene Jahr in Folge, das erneut insbesondere auf ein sehr trockenes Frühjahr und einen recht trockenen Sommer zurückgeht, während der „Winter“ 2019/20 ziemlich feucht war. Zum Jahresausklang folgte einen recht nassen Oktober ein extremer trockener November und ein etwas zu trockener Dezember. Insgesamt reichte es im Mittel zu reichlich 700mm, was jedoch nicht einmal 90 % des Solls entspricht. Natürlich war die Niederschlagsausbeute auch 2020 regional sehr unterschiedlich verteilt und Regionen mit normalen bzw. etwas überdurchschnittlichen Mengen (Küstenumfeld, östliche Mittelgebirge) stehen sehr trockene Regionen in der Mitte und im Westen gegenüber, die teilweise kaum auf 70 % des Normalwertes kamen und somit die mittlerweile extreme Dürre regional weiter verstärkten.
+
+Hinsichtlich des Sonnenscheins kann man sich über 2020 nicht beklagen, lag die Ausbeute doch im Schnitt bei 120% des sonst Erwartbaren , d.h. es gab mit 1900 h knapp 350 h mehr als üblich, wobei die größten prozentualen Abweichungen insbesondere in der Mitte Deutschlands auftraten. Insgesamt war 2020 das viertsonnigste Jahr seit Aufzeichnungsbeginn vor 70 Jahren.
+
+Auch in Sachsen fiel 2020 sehr warm aus, lag die Temperatur hier mit 10,3 °C ebenfalls stolze 2,2 K über dem langjährigen Mittel. Mit knapp 700 mm war es zudem auch verhältnismäßig nass, jedoch reichte es hier nur für eine durchschnittliche Niederschlagsausbeute. Das soll aber nicht darüber hinwegtäuschen, dass es auch hier deutlich trockenere Regionen wie z.B. in Leipzig gab, die mit etwas mehr als 420 mm nur knapp 80% des hier üblichen Solls erreichten und somit die Region insbesondere in tieferen Bodenschichten weiter unter Dürrebedingungen leidet. Mit fast 1900 h war Sachsen praktisch genauso sonnenverwöhnt wie der Rest des Landes.
+
+_Datenquelle: DWD für Deutschland und Sachsen, Leipziger Institut für Meteorologie_
