@@ -1,0 +1,28 @@
+{% include galheader.html %}
+
+<script>
+    lightbox.option({
+      'resizeDuration': 500,
+      'wrapAround': true
+    })
+</script>
+
+<div class="imgcontainer">
+  {% for gallery in site.data.galleries %}
+    {% if gallery.id == include.galleryid %}
+      <!-- <ol> -->
+      {% for image in gallery.images %}
+        {% if image.show %}
+          <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+            <img src="{{ gallery.imagefolder }}/{{ image.thumb }}">
+          </a>
+          <br>
+          Auf das Bild klicken um die Galerie zu öffnen.
+        {% else %}
+          <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}" style="display: none;"></a>
+        {% endif %}
+      {% endfor %}
+      <!-- </ol> -->
+    {% endif %}
+  {% endfor %}
+</div>
