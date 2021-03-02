@@ -3,7 +3,7 @@ title: "EIN EIFFELTURM GEHT UM…"
 layout: post
 category: News
 ---
-### PRESSEMITTEILUNG DES BÜNDNISSES "LEIPZIG FÜR'S KLIMA"
+### PRESSEMITTEILUNG DES BÜNDNISSES "LEIPZIG FÜRS KLIMA"
 
 
 -	Am 5. März 2021 wird mit dem #Eiffelturmtag die Einhaltung der Forderungen und des Pariser Abkommens angemahnt
@@ -11,17 +11,17 @@ category: News
 -	Verwaltungsspitze lehnt Bürgerbeteiligung für Klimaschutz ab
 -	Unterstützung von OBM Jung für Flughafenausbau sorgt für Unverständnis
 
-Das Bündnis „Leipzig für’s Klima“ hat für den 5. März 2021 den **#Eiffelturmtag** ausgerufen. Geplant sind vielfältige Aktionen rund um den Eiffelturm als Symbol für das Pariser Klimaschutzabkommen.
+Das Bündnis „Leipzig fürs Klima“ hat für den 5. März 2021 den **#Eiffelturmtag** ausgerufen. Geplant sind vielfältige Aktionen rund um den Eiffelturm als Symbol für das Pariser Klimaschutzabkommen.
 
-„Mit dieser Aktion wollen wir als Bündnis „Leipzig für’s Klima“ unseren Forderungen für mehr Klimaschutz in Leipzig und den von uns eingereichten Bürgereinwänden nochmals Nachdruck verleihen. Gleichzeitig wollen wir mit dem Eiffelturm symbolisch die Einhaltung des Pariser Abkommens durch die Stadt Leipzig anmahnen.“ erläutert Steffen Peschel, der die Parents for Future im Bündnis vertritt. „Wir haben den 5. März gewählt, weil am darauffolgenden Samstag der Haushaltsausschuss die wesentlichen Weichenstellungen der Haushaltssatzungen 2021/22 festlegen wird.“, so Peschel.
+„Mit dieser Aktion wollen wir als Bündnis „Leipzig fürs Klima“ unseren Forderungen für mehr Klimaschutz in Leipzig und den von uns eingereichten Bürgereinwänden nochmals Nachdruck verleihen. Gleichzeitig wollen wir mit dem Eiffelturm symbolisch die Einhaltung des Pariser Abkommens durch die Stadt Leipzig anmahnen.“ erläutert Steffen Peschel, der die Parents for Future im Bündnis vertritt. „Wir haben den 5. März gewählt, weil am darauffolgenden Samstag der Haushaltsausschuss die wesentlichen Weichenstellungen der Haushaltssatzungen 2021/22 festlegen wird.“, so Peschel.
 
 „Der **#Eiffelturmtag** wurde notwendig, weil wir bislang viel zu wenig Reaktionen aus der Stadtverwaltung erhalten haben. Erst drei Ratsfraktionen haben auf unser Gesprächsangebot reagiert. Die Verwaltung hat keinem unserer Bürgereinwände für den Haushalt stattgegeben. Und eine schriftliche Antwort auf unser Forderungspapier fehlt gänzlich.“ zeigt sich Dr. Heike Wex enttäuscht. Die Physikerin arbeitet am Leibniz Institut für Troposphärenforschung und engagiert sich bei den Scientists for Future Leipzig. „Angesichts der Dringlichkeit der Klimakrise, auf die wir mit unserem offenen Brief vom 11. Januar 2021 noch einmal aufmerksam gemacht hatten, hätten wir vom Oberbürgermeister mehr erwartet.“
 
-„Dass ausgerechnet die von uns beantragten **Fördermittel für Bürgerbeteiligung** beim Klimaschutz abgelehnt wurden, ist nicht nachvollziehbar,“ ergänzt Erik Butter von Greenpeace Leipzig, der die Bürgereinwände an den Haushalt für das Bündnis „Leipzig für’s Klima“ im Dezember 2020 eingereicht hatte. „Auf der 3. Klimakonferenz im November 2020 wurde uns die Bilanz des Energie- und Klimaschutzprogramms 2014-2020 präsentiert. Das war ernüchternd. Allen Beteiligten ist dabei klar geworden, dass die Verwaltung allein nicht vorwärtskommt und auf Initiativen der Leipziger:innen dringend angewiesen ist. Warum wurde dann das von uns dafür beantragte Förderprogramm abgelehnt?“ äußert er sein Unverständnis.
+„Dass ausgerechnet die von uns beantragten **Fördermittel für Bürgerbeteiligung** beim Klimaschutz abgelehnt wurden, ist nicht nachvollziehbar,“ ergänzt Erik Butter von Greenpeace Leipzig, der die Bürgereinwände an den Haushalt für das Bündnis „Leipzig fürs Klima“ im Dezember 2020 eingereicht hatte. „Auf der 3. Klimakonferenz im November 2020 wurde uns die Bilanz des Energie- und Klimaschutzprogramms 2014-2020 präsentiert. Das war ernüchternd. Allen Beteiligten ist dabei klar geworden, dass die Verwaltung allein nicht vorwärtskommt und auf Initiativen der Leipziger:innen dringend angewiesen ist. Warum wurde dann das von uns dafür beantragte Förderprogramm abgelehnt?“ äußert er sein Unverständnis.
 
 Mit dem Bürgereinwand BE-0066/21/22 hatte das Bündnis ein Förderprogramm über jährlich 150 T€ für proaktive Bürgerbeteiligung beantragt. Mit Verwaltungsstandpunkt vom 16. Februar 2021 lehnt die Stadt das Förderprogramm jedoch ab. Eine Erklärung, weshalb gerade dies nicht notwendig sei, fehlt im Begründungstext. Ende 2020 hatte das Bündnis insgesamt **fünf Bürgereinwände** zum Haushalt eingestellt. Diese gehören zu den Bürgereinwänden, die mit **Abstand die meisten Unterstützer:innen** haben. Dennoch wurde bislang keinem Einwand stattgegeben. [https://www.leipzig.de/buergerservice-und-verwaltung/stadtverwaltung/haushalt-und-finanzen/buergereinwaende/](https://www.leipzig.de/buergerservice-und-verwaltung/stadtverwaltung/haushalt-und-finanzen/buergereinwaende/)
 
-**Bereits ab dem heutigen Montag** wird ein ca. zwei Meter hoher Eiffelturm im gesamten Stadtgebiet unterwegs sein und auf den **#Eiffelturmtag** und die Forderungen des Bündnisses „Leipzig für’s Klima“ aufmerksam machen.
+**Bereits ab dem heutigen Montag** wird ein ca. zwei Meter hoher Eiffelturm im gesamten Stadtgebiet unterwegs sein und auf den **#Eiffelturmtag** und die Forderungen des Bündnisses „Leipzig fürs Klima“ aufmerksam machen.
 
 „Der Eiffelturm ist ein sehr guter Botschafter: Jede:r kennt ihn. Jede:r verbindet ihn mit Paris. Unser selbstgebauter Turm ist rund zwei Meter hoch. Seine blauen und roten LEDs symbolisieren die Erderwärmung – angelehnt an die Wärmestreifen der Scientists for Future,“ erläutert Martin Rebmann vom BUND Leipzig, der gemeinsam mit anderen Klimaschützern den Turm gebaut hat. „Dieser Eiffelturm ist wie ein Magnet. Durch ihn kommen wir mit den Leipziger:innen unkompliziert ins Gespräch über Klimaschutz und erreichen viele Menschen außerhalb der Filterblase – das ist ein Geschenk!“
 
@@ -44,7 +44,7 @@ Am 11. Januar 2021 hatten sich unter dem Namen „Leipzig fürs Klima“ mehr al
 
 
 
-### Das Bündnis „Leipzig für's Klima“ in alphabetischer Reihenfolge:
+### Das Bündnis „Leipzig fürs Klima“ in alphabetischer Reihenfolge:
 
 ADFC Leipzig<br>
 Architects for Future Leipzig<br>
