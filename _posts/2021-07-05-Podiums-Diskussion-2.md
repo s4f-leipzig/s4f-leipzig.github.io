@@ -25,7 +25,7 @@ Die TeilnehmerInnen des Podiums stellen in kompakten Vorträgen (ca. 10min) ihre
 - voraussichtl.: Dr. Mark Benecke („Kommunikation in der medialen Öffentlichkeit aus der Sicht eines freien Akteurs“)
 
 #### Anmeldung zur Präsenzveranstsltung
-[dominic.memmel@gmail.com](dominic.memmel@gmail.com)
+[dominic.memmel@gmail.com](mailto:dominic.memmel@gmail.com)
 
 Nachfolgeveranstaltung unserer [Podiums Diskussion zum Thema Verkehrswende](https://s4f-leipzig.de/Podiums-Diskussion/)
 
