@@ -16,5 +16,5 @@ Ort: Festsaal im Neuen Rathaus Leipzig <br>
 Moderation: Dominic Memmel (S4F Leipzig) <br>
 EINTRITT FREI <br>
 
-## Stream
+## Die Diskussion zum nachschauen
 {% include yt-emb.html  yt-id="ZhXZAD_1LS0" %}
