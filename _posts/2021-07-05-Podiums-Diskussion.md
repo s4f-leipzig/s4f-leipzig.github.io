@@ -14,7 +14,7 @@ Die Tatsachen liegen offen auf dem Tisch: Klimawandel, Artensterben und der mens
 Die TeilnehmerInnen des Podiums stellen in kompakten Vorträgen (ca. 10min) ihren jeweiligen Kommunikationsansatz vor. Darauf aufbauend möchten wir mit Ihnen ins Gespräch kommen und Ihre Fragen mit Kompetenz beantworten und Ihnen auch ganz praktische Tipps und Werkzeuge an die Hand geben. Denn mit der Kunst der Kommunikation steht und fällt die Zukunft unserer Kinder.
 
 
-Teilnehmer*innen
+#### Teilnehmer*innen
 
 - Dominic Memmel (S4F Leipzig / „Kommunikative Strategien – ein Überblick“ / auch: Moderation)
 
