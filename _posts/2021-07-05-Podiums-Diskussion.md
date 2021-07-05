@@ -5,7 +5,7 @@ category: News
 ---
 
 ### 16. Juli 2021 | 19-21 Uhr | Sitzungssaal Neues Rathaus Leipzig
-### sowie online [https://www.youtube.com/channel/UCdrwdImXfrD6Q-SUUTwhaow/videos](hier)
+### sowie online auf unserem [Youtube-Channel](https://www.youtube.com/channel/UCdrwdImXfrD6Q-SUUTwhaow/videos)
 
 ![](images/Sharepic_LNDW.png)
 
