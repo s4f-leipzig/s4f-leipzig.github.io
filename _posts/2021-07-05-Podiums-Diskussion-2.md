@@ -5,9 +5,9 @@ category: News
 ---
 
 ### 16. Juli 2021 | 19-21 Uhr | Sitzungssaal Neues Rathaus Leipzig
-### sowie online auf unserem [Youtube-Channel](https://www.youtube.com/channel/UCdrwdImXfrD6Q-SUUTwhaow/videos)
+### sowie online auf unserem [Youtube-Channel](https://www.youtube.com/watch?v=BDowUt0BCyk)
 
-![](/images/Sharepic_LNDW.png)
+![](/images/Sharepic_LNDW.jpg)
 
 Die Tatsachen liegen offen auf dem Tisch: Klimawandel, Artensterben und der menschliche Faktor. Doch anstatt gemeinsam und auf der Basis wissenschaftlicher Erkenntnisse für eine lebenswerte Zukunft zu agieren, debattiert unsere Gesellschaft noch immer über Sinn und Unsinn von Umwelt- und Klimaschutz. Auch in Leipzig wird diese Debatte ambivalenter geführt, als es bei sachlicher Betrachtung nötig wäre. Doch wollen wir das heutige Lebenssystem der Erde erhalten, dann müssen wir diese Debatte schlau, selbstbewusst und zielgerichtet führen – weg vom „ob“ und hin zu den konkreten Lösungen. <br>
 
@@ -16,13 +16,17 @@ Die TeilnehmerInnen des Podiums stellen in kompakten Vorträgen (ca. 10min) ihre
 
 #### Teilnehmer*innen
 
-- Dominic Memmel (S4F Leipzig / „Kommunikative Strategien – ein Überblick“ / auch: Moderation)
+- M. Sc. Sarah Rösch (Psychologists 4 Future, Leipzig)
 
-- Dr. Heike Wex (TROPOS Leipzig / S4F Leipzig / „Macht nicht das Perfekte zum Feind des Guten“)
+- Dipl.Ing Hans-Jürgen Schlegel (VEE Sachsen)
 
-- Hans-Jürgen Schlegel (CDU / VEE Sachsen / „Zweifler, Leugner, Skeptiker & Ignoranten“)
+- Dr. Heike Wex (S4F Leipzig)
 
-- voraussichtl.: Dr. Mark Benecke („Kommunikation in der medialen Öffentlichkeit aus der Sicht eines freien Akteurs“)
+- Dr. Mark Benecke
+
+- Michael Voß (MDR)
+
+- Dominic Memmel (S4F Leipzig)
 
 #### Anmeldung zur Präsenzveranstsltung
 [dominic.memmel@gmail.com](mailto:dominic.memmel@gmail.com)
@@ -31,5 +35,5 @@ Nachfolgeveranstaltung unserer [Podiums Diskussion zum Thema Verkehrswende](http
 
 
 
-<!-- ## Stream
-{% include yt-emb.html  yt-id="ZhXZAD_1LS0" %} -->
+## Stream
+{% include yt-emb.html  yt-id="BDowUt0BCyk" %}
