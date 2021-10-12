@@ -7,7 +7,7 @@ category: News
 ## Vorträge & Diskussion
 
 ### 15.10.2021 | 19 Uhr | Festsaal Neues Rathaus Leipzig
-### sowie online auf unserem [Youtube-Channel](https://www.youtube.com/watch?v=l__RioHBGDk)
+<!-- ### sowie online auf unserem [Youtube-Channel](https://www.youtube.com/watch?v=l__RioHBGDk) -->
 
 <!-- ![](/images/Sharepic_LNDW.jpg) -->
 
