@@ -6,14 +6,16 @@ permalink: /impressum
 
 ## Verantwortlich gemäß § 5 TMG und für den Inhalt nach § 55 Abs. 2 RStV
 
-Matthias Faust<br/>
-Franckestraße 7<br/>
-04318 Leipzig<br/>
+S4F-Leipzig<br/>
+Hoyerstraße 11<br/>
+04229 Leipzig<br/>
 Deutschland
+
+Inhaltlich verantwortlich:<br/>
+Matthias Faust
 
 E-Mail: leipzig@scientists3future.org<br/>
 (Die E-Mail Adresse ist zur Vermeidung von Spam verfremdet; bitte ersetzen Sie jede „3“ durch eine „4“)
-
 
 Dieses Impressum gilt auch für die Scientists for Future Leipzig Auftritte auf [Twitter](https://twitter.com/S4F_Leipzig), [Facebook](https://www.facebook.com/scientists4futureLeipzig/) und [Instagram](https://www.instagram.com/s4f_le/)
 
