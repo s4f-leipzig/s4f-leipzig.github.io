@@ -28,8 +28,8 @@ Die TeilnehmerInnen des Podiums stellen in kompakten Vorträgen (ca. 10min) ihre
 
 - Dominic Memmel (S4F Leipzig)
 
-#### Anmeldung zur Präsenzveranstsltung
-[dominic.memmel@gmail.com](mailto:dominic.memmel@gmail.com)
+<!-- #### Anmeldung zur Präsenzveranstsltung -->
+<!-- [dominic.memmel@gmail.com](mailto:dominic.memmel@gmail.com) -->
 
 Nachfolgeveranstaltung unserer [Podiums Diskussion zum Thema Verkehrswende](https://s4f-leipzig.de/Podiums-Diskussion/)
 
