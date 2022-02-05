@@ -1,0 +1,7 @@
+---
+layout: podcast
+title: "#63 - Gespräch mit Ernst Ulrich von Weizsäcker (Club of Rome) seine Idee der Jetzt-Besoffenheit"
+category: Podcast
+---
+
+<p><script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://interviews-4-future.podigee.io/63-i4f/embed?context=external"></script></p>
