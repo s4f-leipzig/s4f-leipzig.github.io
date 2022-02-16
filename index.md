@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Über Uns
-permalink: /about/
 ---
 
 Die Leipziger Regionalgruppe der „Scientists for Future“ wurde im April 2019 gegründet und erfreut sich seither einem regen Zulauf. Unser Hauptanliegen ist es, die Leipziger „Fridays for Future“ mit wissenschaftlicher Expertise bei allen Fragen rund um das Thema Klimawandel zu unterstützen. Dabei arbeiten wir eng mit vielen weiteren Gruppen der Leipziger Klimabewegung zusammen, wie z.B. „Parents for Future“ und „Health for Future“. Daneben sind wir ins deutschlandweite Netzwerk der „Scientists for Future“ aktiv eingebunden und arbeiten zudem auf regionaler Ebene mit den Regionalgruppen in Dresden, Chemnitz und Zittau zusammen.
