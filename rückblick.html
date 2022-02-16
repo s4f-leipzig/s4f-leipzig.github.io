@@ -7,15 +7,33 @@ layout: default
       <article class="post">
 
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-        <div class="entry">
-          {{ post.content }}
+        <div class="date">
+            <!-- Geschrieben am -->
+            {% assign m = post.date | date: "%-m" %}
+            {{ post.date | date: "%-d." }}
+            {% case m %}
+            {% when '1' %}Januar
+            {% when '2' %}Februar
+            {% when '3' %}M&auml;rz
+            {% when '4' %}April
+            {% when '5' %}Mai
+            {% when '6' %}Juni
+            {% when '7' %}Juli
+            {% when '8' %}August
+            {% when '9' %}September
+            {% when '10' %}Oktober
+            {% when '11' %}November
+            {% when '12' %}Dezember
+            {% endcase %}
+            {{ post.date | date: "%Y" }}
         </div>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <img src="{{ post.thumb }}">
-        </a>
 
-        <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> -->
+            <div class="entry">
+              <!-- {{ post.content | strip_html | truncatewords: 70 }} -->
+              {{ post.content | truncatewords: 70 }}
+            </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiter Lesen</a>
       </article>
     {% endif %}
   {% endfor %}
