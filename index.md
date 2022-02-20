@@ -11,7 +11,8 @@ Ob Schule, Institut, Verein oder Privatperson – sind Sie an unserer Expertise 
 
 S4F Regionalgruppe Leipzig
 
+<br>
 
 <b>Spenden</b>
 
-Unsere Arbeit ist ehrenamtlich und aus privater Tasche finanziert - das schränkt die Möglichkeiten natürlich ein. Möchtest Du uns daher finanziell unterstützen, dann geht das ganz unkompliziert mit einer Spende (Spendenquittung ist möglich). Unter <a href="https://de.scientists4future.org/ueber-uns/spenden/">Spenden für S4F</a> brauchst Du nur "Spende für RG Leipzig, Name, Adresse, E-Mailadresse" im Verwendungszweck angeben und uns anschließend in einer <a href="mailto:leipzig@scientists4future.org">E-Mail</a> auf Deine Spende hinweisen.
+Unsere Arbeit ist ehrenamtlich und aus privater Tasche finanziert - das schränkt die Möglichkeiten natürlich ein. Möchten Sie uns daher finanziell unterstützen, dann geht das ganz unkompliziert mit einer Spende (Spendenquittung ist möglich). Unter <a href="https://de.scientists4future.org/ueber-uns/spenden/">Spenden für S4F</a> brauchen Sie nur "Spende für RG Leipzig, Name, Adresse, E-Mailadresse" im Verwendungszweck angeben und uns anschließend in einer <a href="mailto:leipzig@scientists4future.org">E-Mail</a> auf Ihre Spende hinweisen.
