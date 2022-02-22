@@ -14,8 +14,7 @@ Deutschland
 Inhaltlich verantwortlich:<br/>
 Matthias Faust
 
-E-Mail: leipzig@scientists3future.org<br/>
-(Die E-Mail Adresse ist zur Vermeidung von Spam verfremdet; bitte ersetzen Sie jede „3“ durch eine „4“)
+E-Mail: leipzig[at]scientists4future.org<br/>
 
 Dieses Impressum gilt auch für die Scientists for Future Leipzig Auftritte auf [Twitter](https://twitter.com/S4F_Leipzig), [Facebook](https://www.facebook.com/scientists4futureLeipzig/) und [Instagram](https://www.instagram.com/s4f_le/)
 
