@@ -4,7 +4,8 @@ title: Über Uns
 ---
 
 <b>AKTUELL</b>
-Russische WissenschaftlerInnen haben sich mit einem offenen Brief gegen den Krieg in der Ukraine positioniert. Wir als <i>Scientists 4 Future Leipzig</> unterstützen diesen Aufruf auf das Dringenste! Hier im Original: <a href="https://trv-science.ru/2022/02/we-are-against-war/">trv-science.ru</a>
+<br>
+Russische WissenschaftlerInnen haben sich mit einem offenen Brief gegen den Krieg in der Ukraine positioniert. Wir als <i>Scientists 4 Future Leipzig</i> unterstützen diesen Aufruf auf das Dringenste! Hier im Original: <a href="https://trv-science.ru/2022/02/we-are-against-war/">trv-science.ru</a>
 
 
 Die Leipziger Regionalgruppe der „Scientists for Future“ wurde im April 2019 gegründet und erfreut sich seither einem regen Zulauf. Als WissenschaftlerInnen besitzen wir eine hohe Expertise in Sachen Klimakrise, Energie- und Mobilitätswende, die wir in die öffentliche Debatte einbringen: Die Unterstützung einzelner Initiativen, der konstruktive Austausch mit Politik und Stadtverwaltung, so wie Fachvorträge, Diskussionsrunden und weitere Veranstaltungen. Neben dem Klimawandel soll auch das weltweite Artensterben nicht aus den Augen verloren werden. Unser Hauptanliegen ist es, die Leipziger <a href="https://fffleipzig.de/" target="blank">Fridays For Future</a> mit wissenschaftlicher Expertise bei allen Fragen rund um das Thema Klimawandel zu unterstützen. Dabei arbeiten wir eng mit vielen weiteren Gruppen der Leipziger Klimabewegung zusammen.
