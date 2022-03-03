@@ -6,7 +6,7 @@ title: Über Uns
 <b>Scientists for Future Leipzig rufen auf zur „Friedensfahrt für unsere Partnerstadt Kiew“</b>
 <br>
 
-Die Scientist for Future Leipzig laden zu einer Teilnahme an der „Friedensfahrt für unsere Partnerstadt Kiew“ ein. Wir als Scientists for Future Leipzig wissen, dass die globalen Herausforderungen zur Lösung der Klimakrise nur in einer friedlichen, von Kooperation geprägten Welt möglich sind. Wir begrüßen es, dass auch viele russische Kolleg*innen zur sofortigen Beendigung des militärischen Konfliktes in der Ukraine aufgerufen haben <a href="https://trv-science.ru/2022/02/we-are-against-war/">Link zu Originalaufruf</a>.
+Die Scientist for Future Leipzig laden zu einer Teilnahme an der „Friedensfahrt für unsere Partnerstadt Kiew“ ein. Wir als Scientists for Future Leipzig wissen, dass die globalen Herausforderungen zur Lösung der Klimakrise nur in einer friedlichen, von Kooperation geprägten Welt möglich sind. Wir begrüßen es, dass auch viele russische Kolleg*innen zur sofortigen Beendigung des militärischen Konfliktes in der Ukraine aufgerufen haben (<a href="https://trv-science.ru/2022/02/we-are-against-war/">Link zu Originalaufruf</a>).
 
 Startpunkt der Radtour am Sonntag 6. 3. 2022 um 15 Uhr: Augustusplatz
 
