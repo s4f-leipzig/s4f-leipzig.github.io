@@ -12,6 +12,8 @@ Wir freuen uns über alle, die ebenfalls zur Teilnahme an der Friedensfahrt einl
 
 Treffpunkt am Sonntag 6. 3. 2022 um 15 Uhr: Augustusplatz (ca. 1 stündige Radtour)
 
+Der aktuellen Position der Radtour kann mit der Open Source App Critical Maps gefolgt werden (<a href="https://www.criticalmaps.net/">Link zur Webseite der App</a>).
+
 ![](/images/Friedensfahrt.png)
 
 <b>Über Uns</b>
