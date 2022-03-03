@@ -10,7 +10,7 @@ Die Scientist for Future Leipzig laden zu einer Teilnahme an der „Friedensfahr
 
 Startpunkt der Radtour am Sonntag 6. 3. 2022 um 15 Uhr: Augustusplatz
 
-Wir freuen uns über alle, die ebenfalls zur Teilnahme an der Friedensfahrt einladen, bitten jedoch darum auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen, sind willkommen.
+Wir freuen uns über alle, die ebenfalls zur Teilnahme an der Friedensfahrt einladen, bitten jedoch darum auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen, sind willkommen. Die Friedensfahrt wird ca. 1 Stunde dauern und sollte damit auch für Kinder geeignet sein. Start und Ziel ist der Augustusplatz.
 
 ![](/images/Friedensfahrt.png)
 
