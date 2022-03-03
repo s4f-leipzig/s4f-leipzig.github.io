@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Über Uns
+title: Aktuelles
 ---
 
 <b>Scientists for Future Leipzig rufen auf zur „Friedensfahrt für unsere Partnerstadt Kiew“</b>
@@ -14,7 +14,7 @@ Wir freuen uns über alle, die ebenfalls zur Teilnahme an der Friedensfahrt einl
 
 ![](/images/Friedensfahrt.png)
 
-<b>AKTUELL</b>
+<b>Über Uns</b>
 <br>
 Russische WissenschaftlerInnen haben sich mit einem offenen Brief gegen den Krieg in der Ukraine positioniert. Wir als <i>Scientists 4 Future Leipzig</i> unterstützen diesen Aufruf auf das Dringenste! Hier im Original: <a href="https://trv-science.ru/2022/02/we-are-against-war/">trv-science.ru</a>
 
