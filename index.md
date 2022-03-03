@@ -6,7 +6,7 @@ title: Aktuelles
 <b>Scientists for Future Leipzig rufen auf zur „Friedensfahrt für unsere Partnerstadt Kiew“</b>
 <br>
 
-Die Scientist for Future Leipzig laden zu einer Teilnahme an der „Friedensfahrt für unsere Partnerstadt Kiew“ ein. Wir als Scientists for Future Leipzig wissen, dass die globalen Herausforderungen zur Lösung der Klimakrise nur in einer friedlichen, von Kooperation geprägten Welt möglich sind. Wir begrüßen es, dass auch viele russische Kolleg*innen zur sofortigen Beendigung des militärischen Konfliktes in der Ukraine aufgerufen haben (<a href="https://trv-science.ru/2022/02/we-are-against-war/">Link zu Originalaufruf</a>).
+Die Scientist for Future Leipzig laden zu einer „Friedensfahrt für unsere Partnerstadt Kiew“ ein. Wir möchten damit unsere Solidarität mit den Menschen in der Ukraine zeigen, aber auch mit allen anderen Menschen, die in kriegerischen Regionen auf der Welt leben. Als Scientists for Future Leipzig wissen wir, dass die globalen Herausforderungen zur Lösung der Klimakrise nur in einer friedlichen, von Kooperation geprägten Welt möglich sind. Wir begrüßen es, dass auch viele russische Kolleg*innen zur sofortigen Beendigung des militärischen Konfliktes in der Ukraine aufgerufen haben (<a href="https://trv-science.ru/2022/02/we-are-against-war/">Link zu Originalaufruf</a>).
 
 Wir freuen uns über alle, die ebenfalls zur Teilnahme an der Friedensfahrt einladen, bitten jedoch darum auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen, sind willkommen. Die Friedensfahrt wird ca. 1 Stunde dauern und sollte damit auch für Kinder geeignet sein. Start und Ziel ist der Augustusplatz.
 
