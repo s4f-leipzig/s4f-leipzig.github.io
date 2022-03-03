@@ -10,7 +10,7 @@ Die Scientist for Future Leipzig laden zu einer „Friedensfahrt für unsere Par
 
 Wir freuen uns über alle, die ebenfalls zur Teilnahme an der Friedensfahrt einladen, bitten jedoch darum auf Parteisymbole und Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen, sind willkommen. Die Friedensfahrt wird ca. 1 Stunde dauern und sollte damit sehr familienfreundlich sein. Start und Ziel ist der Augustusplatz.
 
-Treffpunkt am Sonntag 6. 3. 2022 um 15 Uhr: Augustusplatz vor der Oper
+Treffpunkt am Sonntag 6. 3. 2022 um 15 Uhr: Augustusplatz (vor der Oper)
 
 ![](/images/Friedensfahrt.png)
 
