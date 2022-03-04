@@ -44,7 +44,7 @@ The Scientist for Future Leipzig invite to a "Peace Ride for our twin city Kiev"
 
 Meeting point on Sunday, March 6, 2022 at 3 p.m.: Augustusplatz (approx. 1 hour bike tour) 
 
-<hr>
+<hr> 
 
 <b>Über Uns</b>
 <br>
