@@ -16,6 +16,19 @@ Der aktuellen Position der Radtour kann mit der Open Source App Critical Maps ge
 
 ![](/images/Friedensfahrt.png)
 
+<b>Ученые за будущее Лейпцига призывают к "Мирной поездке за наш город-побратим Киев".</b>
+<br>
+
+Ученые за будущее Лейпцига приглашают вас на "Поездку мира для нашего города-побратима Киева". Мы хотим показать нашу солидарность с народом Украины, а также со всеми другими людьми, живущими в охваченных войной регионах мира. Как "Ученые для будущего Лейпцига", мы знаем, что решение глобальных задач по преодолению климатического кризиса возможно только в мирном мире, характеризующемся сотрудничеством. Мы приветствуем тот факт, что многие российские коллеги также призвали к немедленному прекращению военного конфликта в Украине (ссылка на оригинал призыва).
+
+Мы рады всем тем, кто также приглашает нас принять участие в мирной прогулке, но просим воздержаться от использования партийных символов и знаков, противоречащих мировому сообществу, характеризующемуся толерантностью. Приветствуются флаги и транспаранты, выступающие за мирное сосуществование. Велосипедная прогулка займет около 1 часа и поэтому должна быть очень удобной для семейного отдыха. Старт и финиш - Августусплац.
+
+Место встречи в воскресенье 6. 3. 2022 в 15:00: Августусплац (примерно 1 час велосипедной прогулки).
+
+За текущим положением велосипедного тура можно следить с помощью приложения с открытым исходным кодом Critical Maps (ссылка на сайт приложения).
+
+<hr>
+
 <b>English summary:</b>
 
 The Scientist for Future Leipzig invite to a "Peace Ride for our twin city Kiev". We want to show our solidarity with the people in Ukraine, but also with all other people living in war-torn regions around the world. As Scientists for Future Leipzig we know that the global challenges to solve the climate crisis are only possible in a peaceful world characterized by cooperation. We welcome that many Russian colleagues have also called for an immediate end to the military conflict in Ukraine (<a href="https://trv-science.ru/2022/02/we-are-against-war/">link to original call</a>).
