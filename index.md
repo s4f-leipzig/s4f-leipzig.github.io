@@ -16,7 +16,7 @@ Der aktuellen Position der Radtour kann mit der Open Source App Critical Maps ge
 
 ![](/images/Friedensfahrt.png)
 
-English summary:
+<b>English summary:</b>
 
 The Scientist for Future Leipzig invite to a "Peace Ride for our twin city Kiev". We want to show our solidarity with the people in Ukraine, but also with all other people living in war-torn regions around the world. As Scientists for Future Leipzig we know that the global challenges to solve the climate crisis are only possible in a peaceful world characterized by cooperation. We welcome that many Russian colleagues have also called for an immediate end to the military conflict in Ukraine (<a href="https://trv-science.ru/2022/02/we-are-against-war/">Link zu Originalaufruf</a>).
 
