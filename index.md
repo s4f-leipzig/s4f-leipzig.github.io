@@ -6,7 +6,7 @@ title: Aktuelles
 <b>Scientists for Future Leipzig rufen auf zur „Friedensfahrt für unsere Partnerstadt Kiew“</b>
 <br>
 
-Die Scientist for Future Leipzig laden zu einer „Friedensfahrt für unsere Partnerstadt Kiew“ ein. Wir möchten damit unsere Solidarität mit den Menschen in der Ukraine zeigen, aber auch mit allen anderen Menschen, die in kriegerischen Regionen auf der Welt leben. Als Scientists for Future Leipzig wissen wir, dass die globalen Herausforderungen zur Lösung der Klimakrise nur in einer friedlichen, von Kooperation geprägten Welt möglich sind. Wir begrüßen es, dass auch viele russische Kolleg*innen zur sofortigen Beendigung des militärischen Konfliktes in der Ukraine aufgerufen haben (<a href="https://trv-science.ru/2022/02/we-are-against-war/">Link zu Originalaufruf</a>).
+Die Scientist for Future Leipzig laden zu einer „Friedensfahrt für unsere Partnerstadt Kiew“ ein. Wir möchten damit unsere Solidarität mit den Menschen in der Ukraine zeigen, aber auch mit allen anderen Menschen, die in kriegerischen Regionen auf der Welt leben. Als Scientists for Future Leipzig wissen wir, dass die globalen Herausforderungen zur Lösung der Klimakrise nur in einer friedlichen, von Kooperation geprägten Welt möglich sind. Wir begrüßen es, dass auch viele russische Kolleg*innen zur sofortigen Beendigung des militärischen Konfliktes in der Ukraine aufgerufen haben (<a href="https://trv-science.ru/2022/02/we-are-against-war-all/">Link zu Originalaufruf</a>).
 
 Wir freuen uns über alle, die ebenfalls zur Teilnahme an der Friedensfahrt einladen, bitten jedoch darum auf Parteisymbole und Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen, sind willkommen. Die Radtour wird ca. 1 Stunde dauern und sollte damit sehr familienfreundlich sein. Start und Ziel ist der Augustusplatz.
 
@@ -19,7 +19,7 @@ Der aktuellen Position der Radtour kann mit der Open Source App Critical Maps ge
 
 <b>Українське резюме</b>
 
-The Scientist for Future Leipzig запрошує вас на «Велоподорож за мир для нашого міста-побратима Києва». Ми бажаємо проявити нашу солідарність до українцького народу, а також до усіх інших людей, чий дім був зруйнований війною. Як науковці майбутнього Лейпцига, ми розуміємо, що вирішення кліматичної кризи можливе лише в мирному світі через співпрацю. Ми раді що багато російських колег також закликали до негайного припинення військового конфлікту в Україні (<a href="https://trv-science.ru/2022/02/we-are-against-war/">посилання на оригінальний текст</a>).
+The Scientist for Future Leipzig запрошує вас на «Велоподорож за мир для нашого міста-побратима Києва». Ми бажаємо проявити нашу солідарність до українцького народу, а також до усіх інших людей, чий дім був зруйнований війною. Як науковці майбутнього Лейпцига, ми розуміємо, що вирішення кліматичної кризи можливе лише в мирному світі через співпрацю. Ми раді що багато російських колег також закликали до негайного припинення військового конфлікту в Україні (<a href="https://trv-science.ru/2022/02/we-are-against-war-all/">посилання на оригінальний текст</a>).
 
 Місце зустрічі в неділю, 6 березня 2022 року, о 15:00: Аугустусплац (приблизно 1 година велосипедного туру)
 
@@ -28,7 +28,7 @@ The Scientist for Future Leipzig запрошує вас на «Велоподо
 <b>Ученые за будущее Лейпцига призывают к "Мирной поездке за наш город-побратим Киев".</b>
 <br>
 
-Ученые за будущее Лейпцига приглашают вас на "Поездку мира для нашего города-побратима Киева". Мы хотим показать нашу солидарность с народом Украины, а также со всеми другими людьми, живущими в охваченных войной регионах мира. Как "Ученые для будущего Лейпцига", мы знаем, что решение глобальных задач по преодолению климатического кризиса возможно только в мирном мире, характеризующемся сотрудничеством. Мы приветствуем тот факт, что многие российские коллеги также призвали к немедленному прекращению военного конфликта в Украине (<a href="https://trv-science.ru/2022/02/we-are-against-war/">ссылка на оригинал призыва</a>).
+Ученые за будущее Лейпцига приглашают вас на "Поездку мира для нашего города-побратима Киева". Мы хотим показать нашу солидарность с народом Украины, а также со всеми другими людьми, живущими в охваченных войной регионах мира. Как "Ученые для будущего Лейпцига", мы знаем, что решение глобальных задач по преодолению климатического кризиса возможно только в мирном мире, характеризующемся сотрудничеством. Мы приветствуем тот факт, что многие российские коллеги также призвали к немедленному прекращению военного конфликта в Украине (<a href="https://trv-science.ru/2022/02/we-are-against-war-all/">ссылка на оригинал призыва</a>).
 
 Мы рады всем тем, кто также приглашает нас принять участие в мирной прогулке, но просим воздержаться от использования партийных символов и знаков, противоречащих мировому сообществу, характеризующемуся толерантностью. Приветствуются флаги и транспаранты, выступающие за мирное сосуществование. Велосипедная прогулка займет около 1 часа и поэтому должна быть очень удобной для семейного отдыха. Старт и финиш - Августусплац.
 
@@ -40,7 +40,7 @@ The Scientist for Future Leipzig запрошує вас на «Велоподо
 
 <b>English summary:</b>
 
-The Scientist for Future Leipzig invite to a "Peace Ride for our twin city Kiev". We want to show our solidarity with the people in Ukraine, but also with all other people living in war-torn regions around the world. As Scientists for Future Leipzig we know that the global challenges to solve the climate crisis are only possible in a peaceful world characterized by cooperation. We welcome that many Russian colleagues have also called for an immediate end to the military conflict in Ukraine (<a href="https://trv-science.ru/2022/02/we-are-against-war/">link to original call</a>).
+The Scientist for Future Leipzig invite to a "Peace Ride for our twin city Kiev". We want to show our solidarity with the people in Ukraine, but also with all other people living in war-torn regions around the world. As Scientists for Future Leipzig we know that the global challenges to solve the climate crisis are only possible in a peaceful world characterized by cooperation. We welcome that many Russian colleagues have also called for an immediate end to the military conflict in Ukraine (<a href="https://trv-science.ru/2022/02/we-are-against-war-all/">link to original call</a>).
 
 Meeting point on Sunday, March 6, 2022 at 3 p.m.: Augustusplatz (approx. 1 hour bike tour) 
 
