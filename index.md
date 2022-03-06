@@ -6,8 +6,6 @@ title: Aktuelles
 <b>Scientists for Future Leipzig rufen auf zur „Friedensfahrt für unsere Partnerstadt Kiew“</b>
 <br>
 
-<hr>
-
 Wir danken allen Helfer\*innen und den 600 Teilnehmer\*innen an der Friedensfahrt für unsere Partnerstadt Kiew, die trotz der Kälte gekommen sind. Es war ein wichtiges Zeichen für alle Menschen, die sich für eine friedliche Welt einsetzen. Unsere Gedanken sind auch bei den Menschen in Russland, die für Frieden in der Ukraine auf die Straße gehen.
 
 <hr>
