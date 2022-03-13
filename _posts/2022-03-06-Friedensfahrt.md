@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friedensfahrt für unsere Partnerstadt Kiew vom 6. März 2022
+title: Friedensfahrt für unsere Partnerstadt Kiew
 category: News
 ---
 
