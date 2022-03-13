@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Firdensfahrt für unsere Partnerstadt Kiew vom 6. März 2022
-category: Friedensfahrt
+title: Friedensfahrt für unsere Partnerstadt Kiew vom 6. März 2022
+category: News
 ---
 
 Die Scientist for Future Leipzig luden am 6. März das erste Mal zu einer „Friedensfahrt für unsere Partnerstadt Kiew“ ein. Wir bedanken uns bei allen Helfer\*innen 
