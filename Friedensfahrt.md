@@ -26,7 +26,7 @@ Die erste Friedensfahrt für unsere Partnerstadt Kiew fand am 6. März statt. Wi
 
 <hr>
 
-<b>Unterstützergruppen</b>
+<b>Gruppen, die die "Friedensfahrt für unsere Partnerstadt Kiew" offiziell unterstützen:</b>
 <br>
 
 <ul>
