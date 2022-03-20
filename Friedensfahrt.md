@@ -4,6 +4,8 @@ title: Friedensfahrt für unsere Partnerstadt Kiew
 permalink: /friedensfahrt/
 ---
 
+![](/images/Friedensfahrt.png)
+
 Mit Sorge verfolgen wir die Ereignisse in unserer Partnerstadt Kiew. Während in der Ukraine Menschen sterben, ist es unsere Aufgabe die Folgen des Krieges 
 zu mildern. Wir Leipzigerinnen und Leipziger können dazu beitragen, indem wir Menschen aus der Ukraine willkommen heißen und ihnen helfen, ein neues Leben 
 in unserer Stadt aufzubauen. Zudem muss uns bewusst sein, dass jeder Euro an Russland eine Waffe mitfinanziert, die Menschen in der Ukraine und anderen 
