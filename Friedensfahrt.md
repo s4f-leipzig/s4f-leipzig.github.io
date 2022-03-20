@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Friedensfahrt
+title: Friedensfahrt für unsere Partnerstadt Kiew
 permalink: /friedensfahrt/
 ---
 
