@@ -13,10 +13,11 @@ die Ukraine öffentlich klar verurteilen und damit ihr eigenes Leben gefährden.
 
 Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 <ul>
-Solidarität mit den leidenden Menschen in der Ukraine bekunden; ebenso mit den Menschen in Russland, die eine sofortige Beendigung des Krieges fordern.<br>
-Einen Anlaufpunkt bieten, wo Menschen aller Nationalitäten zusammen kommen können, die der Wunsch nach einer friedlichen, toleranten Welt eint und die sich 
-  interkulturell austauschen möchten.<br>
-Zeigen, dass wir bereit sind unseren Bedarf an fossilen Energieträgern zu reduzieren und die Stadt Leipzig bestärken, die Attraktivität des Fuß- und 
-  Radverkehrs sowie des ÖPNV-Angebots zu steigern.<br>
+<li>Solidarität mit den leidenden Menschen in der Ukraine bekunden; ebenso mit den Menschen in Russland, die eine sofortige Beendigung des Krieges fordern.</li>
+<li>Einen Anlaufpunkt bieten, wo Menschen aller Nationalitäten zusammen kommen können, die der Wunsch nach einer friedlichen, toleranten Welt eint und die sich 
+  interkulturell austauschen möchten.</li>
+<li>Zeigen, dass wir bereit sind unseren Bedarf an fossilen Energieträgern zu reduzieren und die Stadt Leipzig bestärken, die Attraktivität des Fuß- und 
+  Radverkehrs sowie des ÖPNV-Angebots zu steigern.</li>
 </ul>
+
 Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt einladen. Wir bitten jedoch darum auf Symbole politischer Parteien, Verbände bzw. Gruppierungen und auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Willkommen sind Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen.
