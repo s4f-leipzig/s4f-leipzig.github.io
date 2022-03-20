@@ -22,7 +22,7 @@ Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 
 Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt einladen. Wir bitten jedoch darum auf Symbole politischer Parteien, Verbände bzw. Gruppierungen und auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Willkommen sind Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen.
  
-Die erste "Friedensfahrt für unsere Partnerstadt Kiew" fand am 6. März statt. Wir planen derzeit, dass die Friedensfahrt an jedem ersten Sonntag im Monat stattfindet. Genauere Informationen gibt es zeitnah auf dieser Webseite.
+Die erste "Friedensfahrt für unsere Partnerstadt Kiew" fand am 6. März 2022 statt. Wir planen derzeit, dass die Friedensfahrt an jedem ersten Sonntag im Monat stattfindet. Genauere Informationen gibt es zeitnah auf dieser Webseite.
 
 <hr>
 
