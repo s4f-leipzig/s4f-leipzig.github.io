@@ -11,6 +11,10 @@ Regionen dieser Welt verletzen oder töten soll. Allein für Öl überwies die E
 Deshalb ist es wichtiger denn je, das Auto auch einmal stehen zu lassen. Zudem sind unsere Gedanken bei den Menschen in Russland, die den Angriff auf 
 die Ukraine öffentlich klar verurteilen und damit ihr eigenes Leben gefährden.
 
+<p align="center">
+<img src="/images/Friedensfahrt.png" width="500"> 
+</p>  
+
 Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 <ul>
 <li>Solidarität mit den leidenden Menschen in der Ukraine bekunden; ebenso mit den Menschen in Russland, die eine sofortige Beendigung des Krieges fordern.</li>
@@ -23,10 +27,6 @@ Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt einladen. Wir bitten jedoch darum auf Symbole politischer Parteien, Verbände bzw. Gruppierungen und auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Willkommen sind Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen.
  
 Die erste "Friedensfahrt für unsere Partnerstadt Kiew" fand am 6. März 2022 statt. Wir planen derzeit, dass die Friedensfahrt an jedem ersten Sonntag im Monat stattfindet. Genauere Informationen gibt es zeitnah auf dieser Webseite.
-
-<p align="center">
-<img src="/images/Friedensfahrt.png" width="500"> 
-</p>  
   
 <hr>
 
