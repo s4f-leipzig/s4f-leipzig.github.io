@@ -24,7 +24,7 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
  
 Die erste "Friedensfahrt für unsere Partnerstadt Kiew" fand am 6. März 2022 statt. Wir planen derzeit, dass die Friedensfahrt an jedem ersten Sonntag im Monat stattfindet. Genauere Informationen gibt es zeitnah auf dieser Webseite.
 
-<img src="/images/Friedensfahrt.png" width="200"> 
+<img src="/images/Friedensfahrt.png" width="500"> 
 
 <hr>
 
