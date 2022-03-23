@@ -28,8 +28,7 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
  
 Wir planen derzeit, dass die Friedensfahrt an jedem ersten Sonntag im Monat stattfindet. Die Fahrradtouren werden ca. eine Stunde dauern und im Clara-Zetkin-Park enden, wo die Möglichkeit besteht zu einem Picknick zu verweilen. 
 
-<b>Termin nächste "Friedensfahrt für unsere Partnerstadt Kiew":</b>
-3. April 2022 15 Uhr auf dem Simsonplatz
+<b>Nächste "Friedensfahrt für unsere Partnerstadt Kiew": 3. April 2022, 15 Uhr, Simsonplatz</b>
   
 <hr>
 
