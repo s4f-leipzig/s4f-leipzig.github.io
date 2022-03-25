@@ -51,6 +51,23 @@ Wir planen derzeit, dass die Friedensfahrt an jedem ersten Sonntag im Monat stat
   
 <hr>
 
+We are following the events in our partner city Kiev with concern. While people are dying in Ukraine, it is our task to alleviate the consequences of the war. People from Leipzig can contribute to this by welcoming people from Ukraine and helping them to build a new life in our city. In addition, we must be aware that every Euro we give to Russia helps finance a weapon that injures or kills people in Ukraine and other regions of the world. For oil alone, the European Union has been transferring about 230 million euros to Russia every day! Therefore, it is more important than ever to take the bicycle instead of a car. In addition, our thoughts are with the people in Russia, who publicly condemn the attack on Ukraine in public and thus endanger their own lives.
+
+With our "Peace Ride for our Twin City Kiev" we would like to:
+<ul>
+<li>Express solidarity with the suffering people in Ukraine; as well as with the people in Russia who demand an immediate end to the war.</li>
+<li>To offer a meeting point where people of all nationalities can come together, united by the desire for a peaceful, tolerant world, and who would like to exchange ideas interculturally.</li>
+<li>Show that we are willing to reduce our need for fossil fuels and encourage the city of Leipzig to increase the attractiveness of walking, cycling and public transport.</li>
+</ul>
+
+We are happy about all who participate and invite to take part in the peace ride. However, we ask that you refrain from using symbols of political parties, associations or groups and signs that contradict a world community characterized by tolerance. Flags and banners that speak for peaceful coexistence are welcome.
+
+We are currently planning for the peace ride to take place on the first Sunday of every month. The bike rides will last about an hour and end at Clara Zetkin Park. 
+
+<b>Start next "Peace ride for our twin city Kiev": April 3rd, 2022, 3 p.m., Simsonplatz.</b>
+
+<hr>
+
 <b>Gruppen, die die "Friedensfahrt für unsere Partnerstadt Kiew" offiziell unterstützen:</b>
 <br>
 
