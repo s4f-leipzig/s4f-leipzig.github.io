@@ -6,7 +6,7 @@ title: Aktuelles
 <b>Friedensfahrt für unsere Partnerstadt Kiew</b>
 <br>
 
-Die nächste Friedensfahrt für unsere Partnerstadt Kiew findet am 3. April um 15 Uhr statt. Mehr Informationen auf der <a href="https://s4f-leipzig.de/friedensfahrt/" target="blank">Unterseite zur Friedensfahrt</a>.
+Die nächste Friedensfahrt findet am 3. April um 15 Uhr statt. Mehr Informationen auf der <a href="https://s4f-leipzig.de/friedensfahrt/" target="blank">Unterseite zur Friedensfahrt</a>.
 
 <img src="/images/Friedensfahrt-2022-04-03.png"> 
  
