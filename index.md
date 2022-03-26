@@ -3,12 +3,10 @@ layout: landing
 title: Aktuelles
 ---
 
-<b>Globaler Klimastreik am 25. März</b>
+<b>Friedensfahrt für unsere Partnerstadt Kiew</b>
 <br>
-
-Am 25. März findet der nächste globale Klimastreik von Fridays for Future statt. Die Scientists for Future Leipzig sind dabei, sowohl bei den Klimatalks ab 11:30 Uhr als auch mit einem gemeinsamen Stand mit Parents for Future Leipzig auf dem Augustusplatz ab 14 Uhr. Die Demo selbst startet um 15 Uhr auf dem Augustusplatz. Mehr Informationen auf der Webseite von Fridays for Future Leipzig (<a href="https://fffleipzig.de/people-not-profit/">Link</a>). 
-
-![](/images/Demo-FFF.jpg)
+<img src="/images/Friedensfahrt-2022-04-03.png"> 
+ 
 
 <hr>
 
