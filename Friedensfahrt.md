@@ -12,7 +12,7 @@ Deshalb ist es wichtiger denn je, das Auto auch einmal stehen zu lassen. Zudem s
 die Ukraine öffentlich klar verurteilen und damit ihr eigenes Leben gefährden.
 
 <p align="center">
-<img src="/images/Friedensfahrt-2022-04-03.png"> 
+<img src="/images/Friedensfahrt.png"> 
 </p>  
 
 Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
