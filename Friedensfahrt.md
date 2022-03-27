@@ -100,7 +100,7 @@ We are happy about all who participate and invite to take part in the peace ride
 <h3>Gruppen, die die "Friedensfahrt für unsere Partnerstadt Kiew" offiziell unterstützen:</h3>
 <br>
 
-<ul><big>
-<li><a href="https://www.instagram.com/cffleipzig/" target="blank">Churches for Future Leipzig</a></li>
+<ul>
+<li><a href="https://www.instagram.com/cffleipzig/" target="blank"><font size="6">Churches for Future Leipzig</font></a></li>
 <li><a href="https://s4f-leipzig.de/" target="blank">Scientists for Future Leipzig</a></li>
 </ul></big>
