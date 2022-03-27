@@ -6,6 +6,10 @@ permalink: /friedensfahrt/
 
 Deutsch – <a href="#ukrainisch">Українська</a> – <a href="#englisch">English</a>
 
+<p align="center">
+<img src="/images/Friedensfahrt.png"> 
+</p>
+
 <b>Sonntag, 03.04.2022 – 01.05.2022 – 05.06.2022, jeweils 15 Uhr<br>
 Tourdauer: ca. 1 Stunde<br>
 Start: Simsonplatz<br> 
@@ -16,11 +20,7 @@ zu mildern. Wir Leipzigerinnen und Leipziger können dazu beitragen, indem wir M
 in unserer Stadt aufzubauen. Zudem muss uns bewusst sein, dass jeder Euro an Russland eine Waffe mitfinanziert, die Menschen in der Ukraine und anderen 
 Regionen dieser Welt verletzen oder töten soll. Allein für Öl überwies die Europäische Union bisher täglich ca. 230 Millionen Euro nach Russland! 
 Deshalb ist es wichtiger denn je, das Auto auch einmal stehen zu lassen. Zudem sind unsere Gedanken bei den Menschen in Russland, die den Angriff auf 
-die Ukraine öffentlich klar verurteilen und damit ihr eigenes Leben gefährden.
-
-<p align="center">
-<img src="/images/Friedensfahrt.png"> 
-</p> 
+die Ukraine öffentlich klar verurteilen und damit ihr eigenes Leben gefährden. 
 
 Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 <ul>
