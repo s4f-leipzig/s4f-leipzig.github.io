@@ -53,6 +53,8 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <hr>
 
+<h3>Peace Ride for our twin city Kiev</h3>
+
 <b>Sunday, 03.04.2022 – 01.05.2022 – 05.06.2022 at 3 pm<br>
 Tour duration: ca. 1 hour<br>
 Start: Simsonplatz<br>
