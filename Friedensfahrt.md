@@ -4,10 +4,10 @@ title: Friedensfahrt für unsere Partnerstadt Kiew
 permalink: /friedensfahrt/
 ---
 
-<b>Sonntag, 03.04.2022 – 01.05.2022 – 05.06.2022, jeweils 15 Uhr</b><br>
-<b>Tourdauer: ca. 1 Stunde</b><br>
-<b>Start: Simsonplatz</b><br> 
-<b>Ziel: Clara-Zetkin-Park</b>
+<b>Sonntag, 03.04.2022 – 01.05.2022 – 05.06.2022, jeweils 15 Uhr<br>
+Tourdauer: ca. 1 Stunde<br>
+Start: Simsonplatz<br> 
+Ziel: Clara-Zetkin-Park</b>
 
 Mit Sorge verfolgen wir die Ereignisse in unserer Partnerstadt Kiew. Während in der Ukraine Menschen sterben, ist es unsere Aufgabe die Folgen des Krieges 
 zu mildern. Wir Leipzigerinnen und Leipziger können dazu beitragen, indem wir Menschen aus der Ukraine willkommen heißen und ihnen helfen, ein neues Leben 
@@ -23,17 +23,22 @@ die Ukraine öffentlich klar verurteilen und damit ihr eigenes Leben gefährden.
 Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 <ul>
 <li>Solidarität mit den leidenden Menschen in der Ukraine bekunden; ebenso mit den Menschen in Russland, die eine sofortige Beendigung des Krieges fordern.</li>
-<li>Einen Anlaufpunkt bieten, wo Menschen aller Nationalitäten zusammen kommen können, die der Wunsch nach einer friedlichen, toleranten Welt eint und die sich 
+<li>Einen Anlaufpunkt bieten, wo Menschen aller Nationalitäten zusammenkommen können, die der Wunsch nach einer friedlichen, toleranten Welt eint und die sich 
   interkulturell austauschen möchten.</li>
 <li>Zeigen, dass wir bereit sind unseren Bedarf an fossilen Energieträgern zu reduzieren und die Stadt Leipzig bestärken, die Attraktivität des Fuß- und 
   Radverkehrs sowie des ÖPNV-Angebots zu steigern.</li>
 </ul>
 
 Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt einladen. Wir bitten jedoch darum auf Symbole politischer Parteien, Verbände bzw. Gruppierungen und auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Willkommen sind Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen.
- 
-Wir planen derzeit, dass die Friedensfahrt an jedem ersten Sonntag im Monat stattfindet. Die Fahrradtouren werden ca. eine Stunde dauern und im Clara-Zetkin-Park enden. 
 
 <hr>
+
+<h3>Подорожo Mиру для нашого міста-побратима Києва</h3>
+
+<b>Неділя, 03.04.2022 – 01.05.2022 – 05.06.2022, 15:00<br>
+Тривалість екскурсії: близько 1 години<br>
+Старт: Сімсонплац (Simsonplatz)<br>
+Фініш: Клара-Цеткін-Парк (Clara-Zetkin-Park)<b>
 
 Ми з занепокоєнням слідкуємо за подіями у нашому партнерському місті Києві. Поки в Україні гинуть люди, наша робота – пом’якшити наслідки війни. Ми, лейпцигці, можемо зробити свій внесок, вітаючи людей з України та допомагаючи їм будувати нове життя в нашому місті. Ми також повинні усвідомлювати, що кожен євро, переданий Росії, допомагає фінансувати зброю, призначену для поранення чи вбивства людей в Україні та інших регіонах світу. Тільки за нафту Європейський Союз до цього часу щодня переказував Росії близько 230 мільйонів євро! Тому як ніколи важливо час від часу залишати машину вдома. Крім того, наші думки з народом Росії, який публічно недвозначно засуджує напад на Україну, тим самим ставлячи під загрозу власне життя. 
 
@@ -46,9 +51,6 @@ Wir planen derzeit, dass die Friedensfahrt an jedem ersten Sonntag im Monat stat
 
 Ми раді кожному, хто бере участь у цій події, і запрошуємо вас взяти участь у акції миру. Проте ми просимо вас утриматися від символіки політичних партій, об’єднань чи груп, а також від знаків, які суперечать світовій спільноті, яка характеризується толерантністю. Вітаються прапори та банери, що говорять про мирне співіснування.
 
-Наразі ми плануємо, що Friedensfahrt відбуватиметься в першу неділю кожного місяця. Велотури триватимуть близько години і будуть закінчуватись в парку Клари Цеткін.
-
-<b>Початок наступної «Подорожі миру для нашого міста-побратима Києва»: 3 квітня 2022 року, 15:00, Simsonplatz</b>
   
 <hr>
 
