@@ -4,6 +4,8 @@ title: Friedensfahrt für unsere Partnerstadt Kiew
 permalink: /friedensfahrt/
 ---
 
+Deutsch – <a href="#ukrainisch">Українська</a> – English 
+
 <b>Sonntag, 03.04.2022 – 01.05.2022 – 05.06.2022, jeweils 15 Uhr<br>
 Tourdauer: ca. 1 Stunde<br>
 Start: Simsonplatz<br> 
@@ -33,7 +35,7 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <hr>
 
-<h3>Подорожo Mиру для нашого міста-побратима Києва</h3>
+<h3 id="ukrainisch">Подорожo Mиру для нашого міста-побратима Києва</h3>
 
 <b>Неділя, 03.04.2022 – 01.05.2022 – 05.06.2022, 15:00<br>
 Тривалість екскурсії: близько 1 години<br>
