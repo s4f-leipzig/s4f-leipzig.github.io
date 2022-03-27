@@ -45,6 +45,11 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <h3 id="ukrainisch">Подорожo Mиру для нашого міста-побратима Києва</h3>
 
+<a href="https://www.facebook.com/FriedensfahrtLeipzig">Facebook</a> ---
+<a href="https://twitter.com/FriedensfahrtLE">Twitter</a> ---
+<a href="t.me/FriedensfahrtLeipzig">Telegram</a> ---
+<a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
+
 <b>Неділя, 03.04.2022 – 01.05.2022 – 05.06.2022, 15:00<br>
 Тривалість екскурсії: близько 1 години<br>
 Старт: Сімсонплац (Simsonplatz)<br>
@@ -66,6 +71,11 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 <hr>
 
 <h3 id="englisch">Peace Ride for our twin city Kiev</h3>
+
+<a href="https://www.facebook.com/FriedensfahrtLeipzig">Facebook</a> ---
+<a href="https://twitter.com/FriedensfahrtLE">Twitter</a> ---
+<a href="t.me/FriedensfahrtLeipzig">Telegram</a> ---
+<a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
 
 <b>Sunday, 03.04.2022 – 01.05.2022 – 05.06.2022 at 3 pm<br>
 Tour duration: ca. 1 hour<br>
