@@ -97,7 +97,7 @@ We are happy about all who participate and invite to take part in the peace ride
 
 <hr>
 
-<b>Gruppen, die die "Friedensfahrt für unsere Partnerstadt Kiew" offiziell unterstützen:</b>
+<h3>Gruppen, die die "Friedensfahrt für unsere Partnerstadt Kiew" offiziell unterstützen:</h3>
 <br>
 
 <ul>
