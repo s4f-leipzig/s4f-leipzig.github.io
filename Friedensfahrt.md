@@ -10,6 +10,12 @@ Deutsch – <a href="#ukrainisch">Українська</a> – <a href="#englisc
 <img src="/images/Friedensfahrt.png"> 
 </p>
 
+
+<a href="https://www.facebook.com/FriedensfahrtLeipzig">Facebook</a> ---
+<a href="https://twitter.com/FriedensfahrtLE">Twitter</a> ---
+<a href="t.me/FriedensfahrtLeipzig">Telegram</a> ---
+<a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
+
 <b>Sonntag, 03.04.2022 – 01.05.2022 – 05.06.2022, jeweils 15 Uhr<br>
 Tourdauer: ca. 1 Stunde<br>
 Start: Simsonplatz<br> 
@@ -33,11 +39,6 @@ Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 
 Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt einladen. Wir bitten jedoch darum auf Symbole politischer Parteien, Verbände bzw. Gruppierungen und auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Willkommen sind Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen.
 
-<b>Social Media:</b><br>
-<a href="https://www.facebook.com/FriedensfahrtLeipzig">Facebook</a><br>
-<a href="https://twitter.com/FriedensfahrtLE">Twitter</a><br>
-<a href="t.me/FriedensfahrtLeipzig">Telegram</a><br>
-<a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a><br>
 <a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Downloadbereich auf Nextcloud (Routen, Grafiken, Infomaterial, …)</a>
 
 <hr>
