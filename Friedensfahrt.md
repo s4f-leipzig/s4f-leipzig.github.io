@@ -4,7 +4,7 @@ title: Friedensfahrt für unsere Partnerstadt Kiew
 permalink: /friedensfahrt/
 ---
 
-<b>Sonntag, 03.04.2022 – 01.05.2022 – 05.06.2022 15 Uhr</b><br>
+<b>Sonntag, 03.04.2022 – 01.05.2022 – 05.06.2022, jeweils 15 Uhr</b><br>
 <b>Tourdauer: ca. 1 Stunde</b><br>
 <b>Start: Simsonplatz</b><br> 
 <b>Ziel: Clara-Zetkin-Park</b>
