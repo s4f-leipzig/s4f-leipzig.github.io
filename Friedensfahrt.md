@@ -4,7 +4,7 @@ title: Friedensfahrt für unsere Partnerstadt Kiew
 permalink: /friedensfahrt/
 ---
 
-Deutsch – <a href="#ukrainisch">Українська</a> – English 
+Deutsch – <a href="#ukrainisch">Українська</a> – <a href="#englisch">English</a> 
 
 <b>Sonntag, 03.04.2022 – 01.05.2022 – 05.06.2022, jeweils 15 Uhr<br>
 Tourdauer: ca. 1 Stunde<br>
@@ -55,7 +55,7 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <hr>
 
-<h3>Peace Ride for our twin city Kiev</h3>
+<h3 id="englisch">Peace Ride for our twin city Kiev</h3>
 
 <b>Sunday, 03.04.2022 – 01.05.2022 – 05.06.2022 at 3 pm<br>
 Tour duration: ca. 1 hour<br>
