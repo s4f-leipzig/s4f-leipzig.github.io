@@ -4,10 +4,10 @@ title: Friedensfahrt für unsere Partnerstadt Kiew
 permalink: /friedensfahrt/
 ---
 
-Deutsch – <a href="#ukrainisch">Українська</a> – <a href="#englisch">English</a>
+<a href="#deutsch">Deutsch</a> – <a href="#ukrainisch">Українська</a> – <a href="#englisch">English</a>
 
 <p align="center">
-<img src="/images/Friedensfahrt.png"> 
+<img id="Deutsch" src="/images/Friedensfahrt.png"> 
 </p>
 
 
