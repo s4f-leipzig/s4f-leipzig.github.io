@@ -42,7 +42,7 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 Ми з занепокоєнням слідкуємо за подіями у нашому партнерському місті Києві. Поки в Україні гинуть люди, наша робота – пом’якшити наслідки війни. Ми, лейпцигці, можемо зробити свій внесок, вітаючи людей з України та допомагаючи їм будувати нове життя в нашому місті. Ми також повинні усвідомлювати, що кожен євро, переданий Росії, допомагає фінансувати зброю, призначену для поранення чи вбивства людей в Україні та інших регіонах світу. Тільки за нафту Європейський Союз до цього часу щодня переказував Росії близько 230 мільйонів євро! Тому як ніколи важливо час від часу залишати машину вдома. Крім того, наші думки з народом Росії, який публічно недвозначно засуджує напад на Україну, тим самим ставлячи під загрозу власне життя. 
 
-З нашою «поїздкою миру для нашого міста-побратима Києва» ми хочемо:
+З нашою «Подорожo Mиру для нашого міста-побратима Києва» ми хочемо:
 <ul>
 <li>продемонструвати солідарність із стражденним народом України; так само і з народом Росії, який вимагає негайного припинення війни.</li>
 <li>Забезпечити місце зустрічі, де люди всіх національностей можуть зібратися разом. Люди, які поділяють прагнення до мирного, толерантного світу та бажаючих обмінятися ідеями на міжкультурному рівні.</li>
@@ -51,12 +51,16 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 Ми раді кожному, хто бере участь у цій події, і запрошуємо вас взяти участь у акції миру. Проте ми просимо вас утриматися від символіки політичних партій, об’єднань чи груп, а також від знаків, які суперечать світовій спільноті, яка характеризується толерантністю. Вітаються прапори та банери, що говорять про мирне співіснування.
 
-  
 <hr>
+
+<b>Sunday, 03.04.2022 – 01.05.2022 – 05.06.2022 at 3 pm<br>
+Tour duration: ca. 1 hour<br>
+Start: Simsonplatz<br>
+End: Clara-Zetkin-Park</b>
 
 We are following the events in our partner city Kiev with concern. While people are dying in Ukraine, it is our task to alleviate the consequences of the war. People from Leipzig can contribute to this by welcoming people from Ukraine and helping them to build a new life in our city. In addition, we must be aware that every Euro we give to Russia helps finance a weapon that injures or kills people in Ukraine and other regions of the world. For oil alone, the European Union has been transferring about 230 million euros to Russia every day! Therefore, it is more important than ever to take the bicycle instead of a car. In addition, our thoughts are with the people in Russia, who publicly condemn the attack on Ukraine in public and thus endanger their own lives.
 
-With our "Peace Ride for our Twin City Kiev" we would like to:
+With our "Peace Ride for our twin city Kiev" we would like to:
 <ul>
 <li>Express solidarity with the suffering people in Ukraine; as well as with the people in Russia who demand an immediate end to the war.</li>
 <li>To offer a meeting point where people of all nationalities can come together, united by the desire for a peaceful, tolerant world, and who would like to exchange ideas interculturally.</li>
@@ -64,10 +68,6 @@ With our "Peace Ride for our Twin City Kiev" we would like to:
 </ul>
 
 We are happy about all who participate and invite to take part in the peace ride. However, we ask that you refrain from using symbols of political parties, associations or groups and signs that contradict a world community characterized by tolerance. Flags and banners that speak for peaceful coexistence are welcome.
-
-We are currently planning for the peace ride to take place on the first Sunday of every month. The bike rides will last about an hour and end at Clara Zetkin Park. 
-
-<b>Start next "Peace ride for our twin city Kiev": April 3rd, 2022, 3 p.m., Simsonplatz.</b>
 
 <hr>
 
