@@ -13,7 +13,7 @@ permalink: /friedensfahrt/
 
 <a href="https://www.facebook.com/FriedensfahrtLeipzig">Facebook</a> ---
 <a href="https://twitter.com/FriedensfahrtLE">Twitter</a> ---
-<a href="t.me/FriedensfahrtLeipzig">Telegram</a> ---
+<a href="https://t.me/FriedensfahrtLeipzig">Telegram</a> ---
 <a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
 
 <b>Sonntag, 03.04.2022 – 01.05.2022 – 05.06.2022, jeweils 15 Uhr<br>
