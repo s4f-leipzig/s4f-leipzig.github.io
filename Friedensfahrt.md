@@ -33,6 +33,8 @@ Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 
 Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt einladen. Wir bitten jedoch darum auf Symbole politischer Parteien, Verbände bzw. Gruppierungen und auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Willkommen sind Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen.
 
+<a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Downloadbereich auf Nextcloud (Routen, Grafiken, Infomaterial, …)</a>
+
 <hr>
 
 <h3 id="ukrainisch">Подорожo Mиру для нашого міста-побратима Києва</h3>
@@ -53,6 +55,8 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 Ми раді кожному, хто бере участь у цій події, і запрошуємо вас взяти участь у акції миру. Проте ми просимо вас утриматися від символіки політичних партій, об’єднань чи груп, а також від знаків, які суперечать світовій спільноті, яка характеризується толерантністю. Вітаються прапори та банери, що говорять про мирне співіснування.
 
+<a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Завантажте область на Nextcloud (маршрути, графіка, інформаційний матеріал, ...)</a>
+
 <hr>
 
 <h3 id="englisch">Peace Ride for our twin city Kiev</h3>
@@ -72,6 +76,8 @@ With our "Peace Ride for our twin city Kiev" we would like to:
 </ul>
 
 We are happy about all who participate and invite to take part in the peace ride. However, we ask that you refrain from using symbols of political parties, associations or groups and signs that contradict a world community characterized by tolerance. Flags and banners that speak for peaceful coexistence are welcome.
+
+<a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Download area on Nextcloud (routes, graphics, info material, …)</a>
 
 <hr>
 
