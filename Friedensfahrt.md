@@ -4,7 +4,7 @@ title: Friedensfahrt für unsere Partnerstadt Kiew
 permalink: /friedensfahrt/
 ---
 
-<a href="#deutsch">Deutsch</a> – <a href="#ukrainisch">Українська</a> – <a href="#englisch">English</a>
+<a href="#deutsch">Deutsch</a> – <a href="#ukrainisch">Українська</a> – <a href="#englisch">English</a> - <a href="#russisch">Русский</a>
 
 <p align="center">
 <img id="Deutsch" src="/images/Friedensfahrt.png"> 
@@ -94,6 +94,33 @@ With our "Peace Ride for our twin city Kiev" we would like to:
 We are happy about all who participate and invite to take part in the peace ride. However, we ask that you refrain from using symbols of political parties, associations or groups and signs that contradict a world community characterized by tolerance. Flags and banners that speak for peaceful coexistence are welcome.
 
 <a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Download area on Nextcloud (routes, graphics, info material, …)</a>
+
+<hr>
+
+<h3 id="russisch">Мирного пробега для нашего города-побратима Киева</h3>
+
+<a href="https://www.facebook.com/FriedensfahrtLeipzig">Facebook</a> ---
+<a href="https://twitter.com/FriedensfahrtLE">Twitter</a> ---
+<a href="t.me/FriedensfahrtLeipzig">Telegram</a> ---
+<a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
+
+<b>Каждое первое воскресенье месяца: 03.04.2022 - 01.05.2022 - 05.06.2022, 15:00.<br>
+Продолжительность экскурсии: около 1 часа<br>
+Начало: Симсонплац<br>
+Место назначения: Клара-Цеткин-Парк</b>
+ 
+Мы с тревогой следим за событиями в нашем городе-побратиме Киеве. Пока в Украине гибнут люди, наша задача - облегчить последствия войны. Мы, лейпцигцы, можем внести свой вклад в это дело, принимая людей из Украины и помогая им строить новую жизнь в нашем городе. Более того, мы должны осознавать, что каждый евро в Россию софинансирует оружие, предназначенное для ранения или убийства людей в Украине и других регионах мира. Только за нефть Европейский Союз ежедневно перечисляет России около 230 миллионов евро! Именно поэтому сейчас как никогда важно оставить автомобиль позади. Кроме того, мы думаем о людях в России, которые публично осуждают нападение на Украину и тем самым подвергают опасности свои собственные жизни.
+ 
+С помощью нашего "Мирного пробега для нашего города-побратима Киева" мы хотим:
+<ul>
+<li>Выразить солидарность со страдающим народом Украины, а также с народом России, который требует немедленного прекращения войны.</li>
+<li>Обеспечить центр, где могут собираться люди всех национальностей, объединенные стремлением к мирному, толерантному миру и желающие обмениваться межкультурными идеями.</li>
+<li>Чтобы показать, что мы готовы сократить потребность в ископаемом топливе и побудить город Лейпциг повысить привлекательность пеших прогулок, езды на велосипеде и общественного транспорта.</li>
+</ul>
+  
+Мы приглашаем всех желающих принять участие и приглашаем присоединиться к Peace Ride. Однако мы просим вас воздержаться от использования символики политических партий, ассоциаций или групп, а также от знаков, противоречащих мировому сообществу, характеризующемуся толерантностью. Приветствуются флаги и транспаранты, выступающие за мирное сосуществование.
+ 
+<a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Область загрузки на Nextcloud (маршруты, графика, информационные материалы, ...)</a>
 
 <hr>
 
