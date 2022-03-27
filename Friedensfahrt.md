@@ -47,7 +47,7 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <a href="https://www.facebook.com/FriedensfahrtLeipzig">Facebook</a> ---
 <a href="https://twitter.com/FriedensfahrtLE">Twitter</a> ---
-<a href="t.me/FriedensfahrtLeipzig">Telegram</a> ---
+<a href="https://t.me/FriedensfahrtLeipzig">Telegram</a> ---
 <a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
 
 <b>Неділя, 03.04.2022 – 01.05.2022 – 05.06.2022, 15:00<br>
@@ -74,7 +74,7 @@ Mісця призначення: Клара-Цеткін-Парк (Clara-Zetkin
 
 <a href="https://www.facebook.com/FriedensfahrtLeipzig">Facebook</a> ---
 <a href="https://twitter.com/FriedensfahrtLE">Twitter</a> ---
-<a href="t.me/FriedensfahrtLeipzig">Telegram</a> ---
+<a href="https://t.me/FriedensfahrtLeipzig">Telegram</a> ---
 <a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
 
 <b>Sunday, 03.04.2022 – 01.05.2022 – 05.06.2022 at 3 pm<br>
@@ -101,7 +101,7 @@ We are happy about all who participate and invite to take part in the peace ride
 
 <a href="https://www.facebook.com/FriedensfahrtLeipzig">Facebook</a> ---
 <a href="https://twitter.com/FriedensfahrtLE">Twitter</a> ---
-<a href="t.me/FriedensfahrtLeipzig">Telegram</a> ---
+<a href="https://t.me/FriedensfahrtLeipzig">Telegram</a> ---
 <a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
 
 <b>воскресенье: 03.04.2022 - 01.05.2022 - 05.06.2022, 15:00.<br>
