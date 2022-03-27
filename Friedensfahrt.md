@@ -130,4 +130,4 @@ We are happy about all who participate and invite to take part in the peace ride
 <ul>
 <li><a href="https://www.instagram.com/cffleipzig/" target="blank">Churches for Future Leipzig</a></li>
 <li><a href="https://s4f-leipzig.de/" target="blank">Scientists for Future Leipzig</a></li>
-</ul></big>
+</ul>
