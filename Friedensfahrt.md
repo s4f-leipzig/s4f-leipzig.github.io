@@ -1,7 +1,3 @@
-<p align="center">
-<img src="/images/Friedensfahrt.png"> 
-</p> 
-
 ---
 layout: page
 title: Friedensfahrt für unsere Partnerstadt Kiew
@@ -20,6 +16,9 @@ Regionen dieser Welt verletzen oder töten soll. Allein für Öl überwies die E
 Deshalb ist es wichtiger denn je, das Auto auch einmal stehen zu lassen. Zudem sind unsere Gedanken bei den Menschen in Russland, die den Angriff auf 
 die Ukraine öffentlich klar verurteilen und damit ihr eigenes Leben gefährden.
 
+<p align="center">
+<img src="/images/Friedensfahrt.png"> 
+</p> 
 
 Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 <ul>
