@@ -128,5 +128,5 @@ We are happy about all who participate and invite to take part in the peace ride
 <br>
 
 <a href="https://www.instagram.com/cffleipzig/" target="blank"><img height="150px" src="/images/Logo_CFF.png"></a>
-<a href="https://s4f-leipzig.de/" target="blank"><img height="150px" src="/images/Logo_CFF.png">s4f_logo_leipzig.png</a>
+<a href="https://s4f-leipzig.de/" target="blank"><img height="150px" src="/images/s4f_logo_leipzig.png"></a>
 
