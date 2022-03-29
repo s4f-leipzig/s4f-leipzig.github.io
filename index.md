@@ -12,7 +12,7 @@ Die nächste Friedensfahrt findet am 3. April um 15 Uhr statt. Mehr Informatione
 
 <hr>
 
-<b>Podium "Klimawandel & Ernährung"
+<b>Podium "Klimawandel & Ernährung"</b>
 <br>
 8.4.2022 // 19 Uhr
 Neues Rathaus Leipzig (Sitzungssaal)
