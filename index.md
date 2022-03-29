@@ -15,8 +15,10 @@ Die nächste Friedensfahrt findet am 3. April um 15 Uhr statt. Mehr Informatione
 <b>Podium "Klimawandel & Ernährung"</b>
 <br>
 8.4.2022 // 19 Uhr
-Neues Rathaus Leipzig (Sitzungssaal)
-Live-Stream siehe unter diesem Beitrag
+<br>
+Präsenz: Neues Rathaus Leipzig (Sitzungssaal)
+<br>
+Live-Stream: siehe unter diesem Beitrag
 <br>
 <br>
 Zur Veranstaltung am 8. April wird Dr. Gesine Flehmig, Scientists 4 Future, zum Thema Landwirtschaft und Gesundheit ausführen. M. Sc. Sarah Rösch, Psychologists 4 Future, widmet ihren Vortrag der Problematik Klimawandel und Essstörungen. Über „Wasserdörfer und Trinkwasser“ spricht Thomas Pöge, Bürgermeister der Gemeinde Thallwitz. Zudem haben als Vertreter vom Ernährungsrat Leipzig Judith Rüschhoff (Nachhaltigkeitspotentiale der Solidarischen Landwirtschaft), und für die Stadt Leipzig Sebastian Pomm vom Referat Nachhaltige Entwicklung und Klimaschutz (Projekt WERTvoll) ihr Kommen zugesagt.
