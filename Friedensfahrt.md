@@ -127,8 +127,8 @@ We are happy about all who participate and invite to take part in the peace ride
 <b>Gruppen, die die "Friedensfahrt für unsere Partnerstadt Kiew" offiziell unterstützen:</b>
 <br>
 
-<a href="https://leipzig.adfc.de/" target="blank"><img height="150px" src="/images/Logo_ADFC.png"></a>
-<a href="https://www.instagram.com/cffleipzig/" target="blank"><img height="150px" src="/images/Logo_CFF.png"></a>
-<a href="https://s4f-leipzig.de/" target="blank"><img height="150px" src="/images/s4f_logo_leipzig.png"></a>
-<a href="https://www.werideleipzig.com/" target="blank"><img height="150px" src="/images/Logo_We-Ride-Leipzig.png"></a>
+<a href="https://leipzig.adfc.de/" target="blank"><img height="60px" src="/images/Logo_ADFC.png"></a></a>&nbsp;<a ...>
+<a href="https://www.instagram.com/cffleipzig/" target="blank"><img height="100px" src="/images/Logo_CFF.png"></a></a>&nbsp;<a ...>
+<a href="https://s4f-leipzig.de/" target="blank"><img height="100px" src="/images/s4f_logo_leipzig.png"></a></a>&nbsp;<a ...>
+<a href="https://www.werideleipzig.com/" target="blank"><img height="100px" src="/images/Logo_We-Ride-Leipzig.png"></a>
 
