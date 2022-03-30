@@ -30,7 +30,8 @@ Moderation: Dominic Memmel (S4F Leipzig)
 
 <hr>
 
-<b>Über Uns</b>
+<br>
+<h2>Wer sind S4F-Leipzig?</h2>
 <br>
 
 Die Leipziger Regionalgruppe der „Scientists for Future“ wurde im April 2019 gegründet und erfreut sich seither einem regen Zulauf. Als WissenschaftlerInnen besitzen wir eine hohe Expertise in Sachen Klimakrise, Energie- und Mobilitätswende, die wir in die öffentliche Debatte einbringen: Die Unterstützung einzelner Initiativen, der konstruktive Austausch mit Politik und Stadtverwaltung, so wie Fachvorträge, Diskussionsrunden und weitere Veranstaltungen. Neben dem Klimawandel soll auch das weltweite Artensterben nicht aus den Augen verloren werden. Unser Hauptanliegen ist es, die Leipziger <a href="https://fffleipzig.de/" target="blank">Fridays For Future</a> mit wissenschaftlicher Expertise bei allen Fragen rund um das Thema Klimawandel zu unterstützen. Dabei arbeiten wir eng mit vielen weiteren Gruppen der Leipziger Klimabewegung zusammen.
