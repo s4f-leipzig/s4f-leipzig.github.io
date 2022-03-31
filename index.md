@@ -21,7 +21,7 @@ Präsenz: Neues Rathaus Leipzig (Sitzungssaal)
 Live-Stream: siehe unter diesem Beitrag
 <br>
 <br>
-Zur Veranstaltung am 8. April wird Dr. Gesine Flehmig, Scientists 4 Future, zum Thema Landwirtschaft und Gesundheit ausführen. M. Sc. Sarah Rösch, Psychologists 4 Future, widmet ihren Vortrag der Problematik Klimawandel und Essstörungen. Über „Wasserdörfer und Trinkwasser“ spricht Thomas Pöge, Bürgermeister der Gemeinde Thallwitz. Zudem haben als Vertreter vom Ernährungsrat Leipzig Judith Rüschhoff (Nachhaltigkeitspotentiale der Solidarischen Landwirtschaft), und für die Stadt Leipzig Sebastian Pomm vom Referat Nachhaltige Entwicklung und Klimaschutz (Projekt WERTvoll) ihr Kommen zugesagt.
+Zur Veranstaltung am 8. April wird Dr. Gesine Flehmig, Scientists 4 Future, zum Thema Landwirtschaft und Gesundheit ausführen. M. Sc. Sarah Rösch, Psychologists 4 Future, widmet ihren Vortrag der Problematik "Übergewicht, Unterernährung, Klimawandel: eine globale Syndemie". Über "Wasserdörfer und Trinkwasser" spricht Thomas Pöge, Bürgermeister der Gemeinde Thallwitz. Zudem haben als Vertreter vom Ernährungsrat Leipzig Judith Rüschhoff (Nachhaltigkeitspotentiale der Solidarischen Landwirtschaft), und für die Stadt Leipzig Sebastian Pomm vom Referat Nachhaltige Entwicklung und Klimaschutz (Projekt WERTvoll) ihr Kommen zugesagt.
 Moderation: Dominic Memmel (S4F Leipzig)
 <br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cEEl9JXYnjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
