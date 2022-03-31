@@ -129,6 +129,8 @@ We are happy about all who participate and invite to take part in the peace ride
 
 <a href="https://leipzig.adfc.de/" target="blank"><img height="100px" src="/images/Logo_ADFC.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/cffleipzig/" target="blank"><img height="100px" src="/images/Logo_CFF.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leipzigfuersklima.de/" target="blank"><img height="100px" src="/images/Logo_H4F.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leipzigfuersklima.de/" target="blank"><img height="100px" src="/images/Logo_P4F.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://s4f-leipzig.de/" target="blank"><img height="100px" src="/images/s4f_logo_leipzig.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.werideleipzig.com/" target="blank"><img height="100px" src="/images/Logo_We-Ride-Leipzig.png"></a>
 
