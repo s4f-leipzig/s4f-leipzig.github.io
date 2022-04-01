@@ -41,6 +41,12 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Downloadbereich auf Nextcloud (Routen, Grafiken, Infomaterial, …)</a>
 
+<b>Route am 3. 4. 2022:</b>
+
+<p align="center">
+<img src="/images/Route-04-03-2022.png"> 
+</p>
+
 <hr>
 
 <h3 id="ukrainisch">Подорожo Mиру для нашого міста-побратима Києва</h3>
