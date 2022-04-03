@@ -52,7 +52,7 @@ Wer Lust hat in die Friedensfahrt einmal reinzuhören findet auf Spotify die Pla
 <a href="https://t.me/FriedensfahrtLeipzig">Telegram</a> ---
 <a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
 
-<b>Неділя, 03.04.2022 – 01.05.2022 – 05.06.2022, 15:00<br>
+<b>Неділя, 01.05.2022 – 05.06.2022, 15:00<br>
 Тривалість екскурсії: близько 1 години<br>
 Старт: Сімсонплац (Simsonplatz)<br>
 Mісця призначення: Клара-Цеткін-Парк (Clara-Zetkin-Park)</b>
@@ -79,7 +79,7 @@ Mісця призначення: Клара-Цеткін-Парк (Clara-Zetkin
 <a href="https://t.me/FriedensfahrtLeipzig">Telegram</a> ---
 <a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
 
-<b>Sunday, 03.04.2022 – 01.05.2022 – 05.06.2022 at 3 pm<br>
+<b>Sunday, 01.05.2022 – 05.06.2022 at 3 pm<br>
 Tour duration: ca. 1 hour<br>
 Start: Simsonplatz<br>
 End: Clara-Zetkin-Park</b>
@@ -106,7 +106,7 @@ We are happy about all who participate and invite to take part in the peace ride
 <a href="https://t.me/FriedensfahrtLeipzig">Telegram</a> ---
 <a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
 
-<b>воскресенье: 03.04.2022 - 01.05.2022 - 05.06.2022, 15:00.<br>
+<b>воскресенье: 01.05.2022 - 05.06.2022, 15:00.<br>
 Продолжительность экскурсии: около 1 часа<br>
 Начало: Симсонплац (Simsonplatz)<br>
 Место назначения: Клара-Цеткин-Парк (Clara-Zetkin-Park)</b>
