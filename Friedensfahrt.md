@@ -39,13 +39,9 @@ Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 
 Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt einladen. Wir bitten jedoch darum auf Symbole politischer Parteien, Verbände bzw. Gruppierungen und auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Willkommen sind Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen.
 
+Wer Lust hat in die Friedensfahrt einmal reinzuhören findet auf Spotify die Playlist der Friedensfahrt vom 3. April (<a href="https://open.spotify.com/playlist/4sKzgkSa3LzwusNhbebB3q?si=6022d5bcd38449f5">Link</a>).
+
 <a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Downloadbereich auf Nextcloud (Routen, Grafiken, Infomaterial, …)</a>
-
-<b>Route am 3. 4. 2022:</b>
-
-<p align="center">
-<img src="/images/Route-2022-04-03.png"> 
-</p>
 
 <hr>
 
