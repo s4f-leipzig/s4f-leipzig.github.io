@@ -16,7 +16,7 @@ permalink: /friedensfahrt/
 <a href="https://t.me/FriedensfahrtLeipzig">Telegram</a> ---
 <a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
 
-<b>Sonntag, 03.04.2022 – 01.05.2022 – 05.06.2022, jeweils 15 Uhr<br>
+<b>Sonntag, 01.05.2022 – 05.06.2022, jeweils 15 Uhr<br>
 Tourdauer: ca. 1 Stunde<br>
 Start: Simsonplatz<br> 
 Ziel: Clara-Zetkin-Park</b>
