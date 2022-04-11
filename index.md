@@ -3,25 +3,6 @@ layout: landing
 title: Aktuelles
 ---
 
-<b>Podium "Klimawandel & Ernährung"</b>
-<br>
-8.4.2022 // 19 Uhr
-<br>
-Präsenz: Neues Rathaus Leipzig (Sitzungssaal)
-<br>
-Live-Stream: siehe unter diesem Beitrag
-<br>
-<br>
-Zur Veranstaltung am 8. April wird Dr. Gesine Flehmig, Scientists 4 Future, zum Thema Landwirtschaft und Gesundheit ausführen. M. Sc. Sarah Rösch, Psychologists 4 Future, widmet ihren Vortrag der Problematik "Übergewicht, Unterernährung, Klimawandel: eine globale Syndemie". Über "Wasserdörfer und Trinkwasser" spricht Thomas Pöge, Bürgermeister der Gemeinde Thallwitz. Zudem haben als Vertreter vom Ernährungsrat Leipzig Judith Rüschhoff (Nachhaltigkeitspotentiale der Solidarischen Landwirtschaft), und für die Stadt Leipzig Sebastian Pomm vom Referat Nachhaltige Entwicklung und Klimaschutz (Projekt WERTvoll) ihr Kommen zugesagt.
-Moderation: Dominic Memmel (S4F Leipzig)
-<br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cEEl9JXYnjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
- 
-
-<hr>
-
-<br>
 <h2>Wer sind S4F-Leipzig?</h2>
 
 Die Leipziger Regionalgruppe der „Scientists for Future“ wurde im April 2019 gegründet und erfreut sich seither einem regen Zulauf. Als WissenschaftlerInnen besitzen wir eine hohe Expertise in Sachen Klimakrise, Energie- und Mobilitätswende, die wir in die öffentliche Debatte einbringen: Die Unterstützung einzelner Initiativen, der konstruktive Austausch mit Politik und Stadtverwaltung, so wie Fachvorträge, Diskussionsrunden und weitere Veranstaltungen. Neben dem Klimawandel soll auch das weltweite Artensterben nicht aus den Augen verloren werden. Unser Hauptanliegen ist es, die Leipziger <a href="https://fffleipzig.de/" target="blank">Fridays For Future</a> mit wissenschaftlicher Expertise bei allen Fragen rund um das Thema Klimawandel zu unterstützen. Dabei arbeiten wir eng mit vielen weiteren Gruppen der Leipziger Klimabewegung zusammen.
