@@ -15,6 +15,7 @@ permalink: /friedensfahrt/
 <a href="https://twitter.com/FriedensfahrtLE">Twitter</a> ---
 <a href="https://t.me/FriedensfahrtLeipzig">Telegram</a> ---
 <a href="https://www.instagram.com/friedensfahrtleipzig/">Instagram</a>
+<meta name = "keywords" content = "Friedensfahrt, Leipzig, Ukraine, Fahrraddemo, Scientists for Future Leipzig, Kiew, Partnerstadt, Stand with Ukraine" />
 
 <b>Sonntag, 01.05.2022 – 05.06.2022, jeweils 15 Uhr<br>
 Tourdauer: ca. 1 Stunde<br>
