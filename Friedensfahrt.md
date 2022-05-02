@@ -38,15 +38,13 @@ Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
   Radverkehrs sowie des ÖPNV-Angebots zu steigern.</li>
 </ul>
 
+Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt einladen. Wir bitten jedoch darum auf Symbole politischer Parteien, Verbände bzw. Gruppierungen und auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Willkommen sind Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen. Zudem freuen wir uns über ein Bild der Tour in blau-gelb, den Farben Leipzigs und der Ukraine.
+
+<a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Downloadbereich auf Nextcloud (Routen, Grafiken, Infomaterial, …)</a>
+
 <p align="center">
 <img id="Deutsch" src="/images/Friedensfahrt-20220501.png" width="600"> 
 </p>
-
-Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt einladen. Wir bitten jedoch darum auf Symbole politischer Parteien, Verbände bzw. Gruppierungen und auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Willkommen sind Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen. Zudem freuen wir uns über ein Bild der Tour in blau-gelb, den Farben Leipzigs und der Ukraine.
-
-Wer Lust hat in die Friedensfahrt einmal reinzuhören findet auf Spotify die Playlist vom 3. April (<a href="https://open.spotify.com/playlist/4sKzgkSa3LzwusNhbebB3q?si=6022d5bcd38449f5">Link</a>).
-
-<a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Downloadbereich auf Nextcloud (Routen, Grafiken, Infomaterial, …)</a>
 
 <hr>
 
