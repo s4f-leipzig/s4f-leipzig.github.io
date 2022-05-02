@@ -39,7 +39,7 @@ Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 </ul>
 
 <p align="center">
-<img id="Deutsch" src="/images/Friedensfahrt-20220501.png"> 
+<img id="Deutsch" src="/images/Friedensfahrt-20220501.png" width="300"> 
 </p>
 
 Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt einladen. Wir bitten jedoch darum auf Symbole politischer Parteien, Verbände bzw. Gruppierungen und auf Zeichen, die einer von Toleranz geprägten Weltgemeinschaft widersprechen, zu verzichten. Willkommen sind Fahnen und Transparente, die für ein friedliches Zusammenleben sprechen. Zudem freuen wir uns über ein Bild der Tour in blau-gelb, den Farben Leipzigs und der Ukraine.
