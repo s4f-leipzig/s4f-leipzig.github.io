@@ -29,6 +29,10 @@ Regionen dieser Welt verletzen oder töten soll. Allein für Öl überwies die E
 Deshalb ist es wichtiger denn je, das Auto auch einmal stehen zu lassen. Zudem sind unsere Gedanken bei den Menschen in Russland, die den Angriff auf 
 die Ukraine öffentlich klar verurteilen und damit ihr eigenes Leben gefährden. 
 
+<p align="center">
+<img id="Deutsch" src="/images/Friedensfahrt-20220501.png" width="600"> 
+</p>
+
 Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
 <ul>
 <li>Solidarität mit den leidenden Menschen in der Ukraine bekunden; ebenso mit den Menschen in Russland, die eine sofortige Beendigung des Krieges fordern.</li>
@@ -42,9 +46,7 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Downloadbereich auf Nextcloud (Routen, Grafiken, Infomaterial, …)</a>
 
-<p align="center">
-<img id="Deutsch" src="/images/Friedensfahrt-20220501.png" width="600"> 
-</p>
+
 
 <hr>
 
