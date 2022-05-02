@@ -48,7 +48,7 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <p align="center">
 <img id="Deutsch" src="/images/Demo-Ukraine-Leipzig.jpg" width="600"><br>
-Forderungen von ukrainischen Flüchtlingen auf Demonstrationen in Leipzig
+  <i>Impressionen von Demonstrationen organisiert von urkainischen Flüchtlingen in Leipzig</i>
 </p>
 
 <hr>
