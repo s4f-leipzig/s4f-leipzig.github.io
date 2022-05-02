@@ -46,7 +46,10 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <a href="https://nc.verkehrswende-le.de/s/qsH46kLGJ6yqMNQ">Downloadbereich auf Nextcloud (Routen, Grafiken, Infomaterial, …)</a>
 
-
+<p align="center">
+<img id="Deutsch" src="/images/Demo-Ukraine-Leipzig.jpg" width="600"> 
+Forderungen von Ukrainischen Flüchtlingen auf Demonstrationen in Leipzig
+</p>
 
 <hr>
 
