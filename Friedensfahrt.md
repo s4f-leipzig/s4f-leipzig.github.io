@@ -31,6 +31,7 @@ die Ukraine öffentlich klar verurteilen und damit ihr eigenes Leben gefährden.
 
 <p align="center">
 <img id="Deutsch" src="/images/Friedensfahrt-20220501.png" width="600"> 
+<b>Bild:</b><i>Auftakt der Friedensfahrt vom 1. Mai 2022</i>
 </p>
 
 Mit unserer "Friedensfahrt für unsere Partnerstadt Kiew" möchten wir:
@@ -48,7 +49,7 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <p align="center">
 <img id="Deutsch" src="/images/Demo-Ukraine-Leipzig.jpg" width="600"><br>
-  <i>Impressionen von Demonstrationen organisiert von urkainischen Flüchtlingen in Leipzig</i>
+  <b>Bild:</b><i>Impressionen von Demonstrationen organisiert von urkainischen Flüchtlingen in Leipzig</i>
 </p>
 
 <hr>
