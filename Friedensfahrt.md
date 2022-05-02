@@ -49,7 +49,7 @@ Wir freuen uns über alle, die teilnehmen und zur Teilnahme an der Friedensfahrt
 
 <p align="center">
 <img id="Deutsch" src="/images/Demo-Ukraine-Leipzig.jpg" width="600"><br>
-  <b>Bild:</b> <i>Impressionen von Demonstrationen organisiert von Ukrainer:innen in Leipzig</i>
+  <b>Bild:</b> <i>Bilder von Demos von Ukrainern in Leipzig</i>
 </p>
 
 <hr>
