@@ -4,6 +4,12 @@ title: Salon der Zukunft
 permalink: /salon/
 ---
 
+<b>Nächster Termin:<br> 
+Samstag, 08. Oktober 2022, 15:00-17:00 Uhr<br>
+Trinitatiskirche Anger-Crottendorf<br>
+Theodor-Neubauer-Str. 16, 04318 Leipzig
+</b>
+
 Unser aktuelles Wirtschaftssystem basiert auf unendlichem Wachstum in einer endlichen Welt und trägt damit maßgeblich dazu bei, dass der Klimawandel voranschreitet. Doch es ist nicht alternativlos! So hat zum Beispiel der Europäische Wirtschafts und 
 Sozialausschuss die Förderung der Gemeinwohlökonomie in der EU mit 144 zu 13 Stimmen klar empfohlen 
 (<a href="https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A52015IE2060">Link zur Stellungnahme</a>). Es ist ein markantes Beispiel, wie wenig 
