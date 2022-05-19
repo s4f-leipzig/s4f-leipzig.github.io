@@ -9,6 +9,7 @@ Samstag, 08. Oktober 2022, 15:00-17:00 Uhr<br>
 Trinitatiskirche Anger-Crottendorf<br>
 Theodor-Neubauer-Str. 16, 04318 Leipzig
 </b>
+<a href="https://twitter.com/SalonderZukunft">Twitter</a>
 
 Unser aktuelles Wirtschaftssystem basiert auf unendlichem Wachstum in einer endlichen Welt und trägt damit maßgeblich dazu bei, dass der Klimawandel voranschreitet. Doch es ist nicht alternativlos! So hat zum Beispiel der Europäische Wirtschafts und 
 Sozialausschuss die Förderung der Gemeinwohlökonomie in der EU mit 144 zu 13 Stimmen klar empfohlen 
