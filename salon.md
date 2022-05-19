@@ -5,7 +5,7 @@ permalink: /salon/
 ---
 
 Eine Begrenzung der Erderwärmung auf unter 2 °C ist nahezu unmöglich, wenn unser aktuelles Wirtschaftssystem beibehalten wird, denn dies
-basiert darauf immer mehr zu wachsen. Doch es ist nicht alternativlos, wie so oft suggeriert wird. So hat zum Beispiel der Europäische Wirtschafts und 
+basiert auf unendlichem Wachstum in einer endlichen Welt. Doch es ist nicht alternativlos, wie so oft suggeriert wird. So hat zum Beispiel der Europäische Wirtschafts und 
 Sozialausschuss die Förderung der Gemeinwohlökonomie in der EU mit 144 zu 13 Stimmen klar empfohlen 
 (<a href="https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A52015IE2060">Link zur Stellungnahme</a>). Es ist ein markantes Beispiel, wie wenig 
 alternative Ansätze verbreitet werden. Diese stehen für ein neues miteinander und zeigen, dass wir als Gesellschaft viel gewinnen können, wenn wir den Mut haben gemeinsam neue Wege zu gehen.   
