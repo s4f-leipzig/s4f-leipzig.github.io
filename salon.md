@@ -28,7 +28,7 @@ Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiese
 
 <hr>
 
-<h3 id="Partner"><b>Der Salon der Zukunft wird von folgenden Partner:innen ermöglicht:</b></h3>
+<h3 id="Partner"><b>Der Salon der Zukunft wird durch folgende Partnerschaft ermöglicht:</b></h3>
 <br>
 
 <p align="center">
