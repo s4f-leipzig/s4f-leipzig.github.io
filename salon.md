@@ -18,7 +18,7 @@ alternative Ansätze verbreitet werden. Diese stehen für ein neues miteinander,
 Mit dem Salon der Zukunft möchten die Scientists for Future Leipzig zusammen mit ihren Partnern dazu beitragen, alternative Ansätze in Leipzig bekannter zu machen und regionale Gestaltungsmöglichkeiten aufzeigen. Eingerahmt von professioneller Live Musik finden kurze Vorträge und interaktive Formate statt, die von Wissenschaftler:innen, aber auch Aktivist:innen und Vorreiter:innen aus Leipzig gestaltet werden. Zum Abschluss ist jede:r eingeladen bei Wein und Wasser miteinander ins Gespräch zu kommen. Mit dem kostenlosen Kulturangebot möchten wir jede:n ermuntern darüber nachzudenken, wie eine Gesellschaft aussehen könnte, wo starke Schultern die Schwachen tragen und an der Umsetzung vor Ort mitzuwirken.
 
 <p align="center">
-<img id="Deutsch" src="/images/SAlon-Bild1.png" width="600">
+<img id="Deutsch" src="/images/Salon-Bild1.png" width="600">
 </p>
 
 
