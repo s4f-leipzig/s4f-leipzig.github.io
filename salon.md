@@ -24,3 +24,12 @@ Mit dem Salon der Zukunft möchten die Scientists for Future Leipzig zusammen mi
 
 Der nächste Salon der Zukunft findet am 8. Oktober 2022 statt und wird sich dem Thema widmen: "Gemeinsam genießen statt einsam verzichten: Wie Nachbarschaften dazu beitragen können die ökologischen Krisen zu lösen." Los geht es um 15 Uhr in der Trinitatiskirche Anger-Crottendorf. Den musiklaischen Rahmen wird ein Jazz-Ensemble unter Leitung von Jörn Kleinbrahm geben. Wir freuen uns auf ihren Besuch! 
 
+<hr>
+
+<b>Der Salon der Zukunft wird von folgenden Partner:innen unterstützt:</b>
+<br>
+
+<a href="https://www.bv-anger-crottendorf.de/" target="blank"><img height="100px" src="/images/Logo_BVAC.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://esg-leipzig.de/uber-uns/arbeitskreise/churches-for-future-leipzig/" target="blank"><img height="100px" src="/images/Logo_CFF.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.ostwache.org/" target="blank"><img height="100px" src="/images/Logo_Ostwache.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://s4f-leipzig.de/" target="blank"><img height="100px" src="/images/s4f_logo_leipzig.png"></a>&nbsp;&nbsp;&nbsp;
