@@ -26,7 +26,7 @@ Der nächste Salon der Zukunft findet am 8. Oktober 2022 statt und wird sich dem
 
 <hr>
 
-<b>Der Salon der Zukunft wird von folgenden Partner:innen unterstützt:</b>
+<h3 id="Partner"><b>Der Salon der Zukunft wird von folgenden Partner:innen unterstützt:</b></h3>
 <br>
 
 <p align="center">
