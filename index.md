@@ -6,8 +6,7 @@ title: Aktuelles
 
 Am 27. August 2020 / 10-21 Uhr / Marktplatz Leipzig
 
-Zur Leipziger KlimaFAIR versammeln sich auf dem Marktplatz über 30 Klimagruppen und Initiativen zusammen mit Vertretern der Stadt Leipzig, um zu zeigen, wie viel schon jetzt in Leipzig bewegt werden kann, welche Klima-Gruppen es gibt und wie es weiter gehen kann. Mit vielen Infoständen, einem tollen Bühnenprogramm, Livemusik, Redebeiträgen und einem Artspace wollen wir euch zeigen, was uns antreibt und wie ihr selbst etwas für eure Zukunft und die eurer Kinder tun könnt. Für die Kleinen wird mit einem eigenen Spielebereich gesorgt sein. Direkt auf dem Marktplatz werden auch leckeres Essen, Eis und Trinken angeboten.
-<a href="https://leipzigfuersklima.de/klimafair-2022/">KlimFAIR</a>
+Zur Leipziger <a href="https://leipzigfuersklima.de/klimafair-2022/" target="blank">KlimFAIR</a> versammeln sich auf dem Marktplatz über 30 Klimagruppen und Initiativen zusammen mit Vertretern der Stadt Leipzig, um zu zeigen, wie viel schon jetzt in Leipzig bewegt werden kann, welche Klima-Gruppen es gibt und wie es weiter gehen kann. Mit vielen Infoständen, einem tollen Bühnenprogramm, Livemusik, Redebeiträgen und einem Artspace wollen wir euch zeigen, was uns antreibt und wie ihr selbst etwas für eure Zukunft und die eurer Kinder tun könnt. Für die Kleinen wird mit einem eigenen Spielebereich gesorgt sein. Direkt auf dem Marktplatz werden auch leckeres Essen, Eis und Trinken angeboten.
 
 <h2>Wer sind S4F-Leipzig?</h2>
 
