@@ -3,11 +3,13 @@ layout: landing
 title: Aktuelles
 ---
 <h2>23.9. ist Klimastreik!</h2>
+Nicht zuletzt das Jahr 2022 hat der Welt gezeigt, wie drastisch die Klimakatastrophe ist (aktuell 1,2°) und noch werden kann (3-4° ohne Beachtung der Kipppunkte und ihrer selbstverstärkenden Wirkung). Die Politik, allen voran Parteien und PolitikerInnen am Nabel der fossilen Industrie, machen leider noch immer viel zu wenig, um diesen einzigen (und einzigartigen!) Planeten lebenswert zu halten. Daher bleibt uns als Bürgerinnen und Bürger nur die Möglichkeit, so laut und deutlich in der Öffentlichkeit sichtbar zu werden, dass die Politik ihre Aufgaben nicht weiter ignorieren kann. Ein Mittel ist der Klimastreik, der am 23.9. auch in Leipzig stattfindet.
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://interviews-4-future.podigee.io/67-i4f/embed?context=external"></script>
 
 <h2>14.10. <a href="https://s4f-leipzig.de/podium/">Podium</a> zur Klimabildung</h2>
   18-20 Uhr
   Neues Rathaus Leipzig (Sitzungssaal)
-  In Zusammenarbeit mit dem Wissenschaftsfestival <a href="https://www.globe-festival.de/">globe22</a> sowie dem <a href="https://www.leipzig.de/buergerservice-und-verwaltung/aemter-und-behoerdengaenge/behoerden-und-dienstleistungen/dienststelle/referat-wissenspolitik-0117">Referat Wissenspolitik</a>
+  In Zusammenarbeit mit dem Wissenschaftsfestival <a href="https://www.globe-festival.de/">globe22</a> sowie dem <a href="https://www.leipzig.de/buergerservice-und-verwaltung/aemter-und-behoerdengaenge/behoerden-und-dienstleistungen/dienststelle/referat-wissenspolitik-0117">Referat Wissenspolitik</a> der Stadt Leipzig.
 
 <h2>Wer sind S4F-Leipzig?</h2>
 
