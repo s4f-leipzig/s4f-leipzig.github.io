@@ -2,7 +2,7 @@
 layout: landing
 title: Aktuelles
 ---
-<h2>23.9. ist Klimastreik!</h2>
+<h2>Am 23.9. ist Klimastreik!</h2>
 Nicht zuletzt das Jahr 2022 hat der Welt gezeigt, wie drastisch die Klimakatastrophe ist (aktuell 1,2°) und noch werden kann (3-4° ohne Beachtung der Kipppunkte und ihrer selbstverstärkenden Wirkung). Die Politik, allen voran Parteien und PolitikerInnen am Nabel der fossilen Industrie, machen leider noch immer viel zu wenig, um diesen einzigen (und einzigartigen!) Planeten lebenswert zu halten. Daher bleibt uns als Bürgerinnen und Bürger nur die Möglichkeit, so laut und deutlich in der Öffentlichkeit sichtbar zu werden, dass die Politik ihre Aufgaben nicht weiter ignorieren kann. Ein Mittel ist der Klimastreik, der am 23.9. auch in Leipzig stattfindet.
 
 Wie wichtig gesellschaftliches Engagement ist, kann hier nachgehört werden:
