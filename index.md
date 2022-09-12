@@ -4,7 +4,7 @@ title: Aktuelles
 ---
 <h2>23.9. ist Klimastreik!</h2>
 
-<h2>14.10. <a href="https://s4f-leipzig.de/podium/">Podium</a> zur Klimabildung
+<h2>14.10. <a href="https://s4f-leipzig.de/podium/">Podium</a> zur Klimabildung</h2>
   18-20 Uhr
   Neues Rathaus Leipzig (Sitzungssaal)
   In Zusammenarbeit mit dem Wissenschaftsfestival <a href="https://www.globe-festival.de/">globe22</a> sowie dem <a href="https://www.leipzig.de/buergerservice-und-verwaltung/aemter-und-behoerdengaenge/behoerden-und-dienstleistungen/dienststelle/referat-wissenspolitik-0117">Referat Wissenspolitik</a>
