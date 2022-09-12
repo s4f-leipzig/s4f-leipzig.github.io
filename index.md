@@ -4,6 +4,11 @@ title: Aktuelles
 ---
 <h2>23.9. ist Klimastreik!</h2>
 
+<h2>14.10. <a href="https://s4f-leipzig.de/podium/">Podium</a> zur Klimabildung
+  18-20 Uhr
+  Neues Rathaus Leipzig (Sitzungssaal)
+  In Zusammenarbeit mit dem Wissenschaftsfestival <a href="https://www.globe-festival.de/">globe22</a> sowie dem <a href="https://www.leipzig.de/buergerservice-und-verwaltung/aemter-und-behoerdengaenge/behoerden-und-dienstleistungen/dienststelle/referat-wissenspolitik-0117">Referat Wissenspolitik</a>
+
 <h2>Wer sind S4F-Leipzig?</h2>
 
 Die Leipziger Regionalgruppe der „Scientists for Future“ wurde im April 2019 gegründet und erfreut sich seither einem regen Zulauf. Als WissenschaftlerInnen besitzen wir eine hohe Expertise in Sachen Klimakrise, Energie- und Mobilitätswende, die wir in die öffentliche Debatte einbringen: Die Unterstützung einzelner Initiativen, der konstruktive Austausch mit Politik und Stadtverwaltung, so wie Fachvorträge, Diskussionsrunden und weitere Veranstaltungen. Neben dem Klimawandel soll auch das weltweite Artensterben nicht aus den Augen verloren werden. Unser Hauptanliegen ist es, die Leipziger <a href="https://fffleipzig.de/" target="blank">Fridays For Future</a> mit wissenschaftlicher Expertise bei allen Fragen rund um das Thema Klimawandel zu unterstützen. Dabei arbeiten wir eng mit vielen weiteren Gruppen der Leipziger Klimabewegung zusammen.
