@@ -9,9 +9,7 @@ Wie wichtig gesellschaftliches Engagement ist, kann hier nachgehört werden:
 <script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://interviews-4-future.podigee.io/67-i4f/embed?context=external"></script>
 
 <h2>8.10. <a href="https://s4f-leipzig.de/salon/">Salon</a> der Zukunft</h2>
-  15-17 Uhr
-  Trinitatiskirche Anger-Crottendorf
-  Der nächste Salon der Zukunft findet am 8. Oktober 2022 im Rahmen des Stadtteilkulturfestivals OSTLichter statt (<a href="https://www.ostlichter-leipzig.de/">Link zur Webseite der OSTLichter</a>). Thema wird sein: "Gemeinsam genießen, statt einsam verzichten: Wie Nachbarschaften dazu beitragen können die ökologischen Krisen zu lösen". Los geht es um 15 Uhr in der Trinitatiskirche Anger-Crottendorf. Den musikalischen Rahmen wird ein Jazz-Ensemble unter Leitung von Jörn Kleinbrahm geben. Wir freuen uns auf ihren Besuch! 
+Der nächste Salon der Zukunft findet am 8. Oktober 2022 im Rahmen des Stadtteilkulturfestivals OSTLichter statt (<a href="https://www.ostlichter-leipzig.de/">Link zur Webseite der OSTLichter</a>). Thema wird sein: "Gemeinsam genießen, statt einsam verzichten: Wie Nachbarschaften dazu beitragen können die ökologischen Krisen zu lösen". Los geht es um 15 Uhr in der Trinitatiskirche Anger-Crottendorf. Den musikalischen Rahmen wird ein Jazz-Ensemble unter Leitung von Jörn Kleinbrahm geben. Wir freuen uns auf ihren Besuch! 
 
 <h2>14.10. <a href="https://s4f-leipzig.de/podium/">Podium</a> zur Klimabildung</h2>
   18-20 Uhr
