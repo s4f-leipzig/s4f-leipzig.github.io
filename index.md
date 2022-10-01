@@ -3,10 +3,13 @@ layout: landing
 title: Aktuelles
 ---
 
+<h2>Stellungnahme S4F Leipzig zu zivilem Ungehorsam</h2>
+Wir als <i>Scientists for Future Leipzig</i> möchten der gegen die Zerstörung ihrer Zukunft (im hier genanntem Rahmen) rebellierenden Menschen unsere volle Solidarität aussprechen: <a href="https://s4f-leipzig.de/documents/Stellungnahme_zU_S4F_Leipzig.pdf">Stellungnahme S4F Leipzig zu zivilem Ungehorsam</a>
+
 <h2>8. Oktober <a href="https://s4f-leipzig.de/salon/">Salon</a> der Zukunft</h2>
 Der nächste Salon der Zukunft findet am 8. Oktober 2022 im Rahmen des Stadtteilkulturfestivals OSTLichter statt. Thema wird sein: "Gemeinsam genießen, statt einsam verzichten: Wie Nachbarschaften dazu beitragen können die ökologischen Krisen zu lösen". Los geht es um 15 Uhr in der Trinitatiskirche Anger-Crottendorf. Den musikalischen Rahmen wird ein Jazz-Ensemble unter Leitung von Jörn Kleinbrahm geben. Wir freuen uns auf ihren Besuch! 
 
-<h2>14. Oktober <a href="https://s4f-leipzig.de/podium/">Podium</a> zur Klimabildung</h2>
+<h2>14. Oktober <a href="https://s4f-leipzig.de/podium/">Podium</a> zum Energiesparen</h2>
 In Zusammenarbeit mit dem Wissenschaftsfestival <a href="https://www.globe-festival.de/">globe22</a> sowie dem <a href="https://www.leipzig.de/buergerservice-und-verwaltung/aemter-und-behoerdengaenge/behoerden-und-dienstleistungen/dienststelle/referat-wissenspolitik-0117">Referat Wissenspolitik</a> der Stadt Leipzig.
 
 <h2>Wer sind S4F-Leipzig?</h2>
