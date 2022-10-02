@@ -9,7 +9,7 @@ Der nächste Salon der Zukunft findet am 8. Oktober 2022 im Rahmen des Stadtteil
 <h2>14. Oktober <a href="https://s4f-leipzig.de/podium/">Podium</a> zum Energiesparen</h2>
 In Zusammenarbeit mit dem Wissenschaftsfestival <a href="https://www.globe-festival.de/">globe22</a> sowie dem <a href="https://www.leipzig.de/buergerservice-und-verwaltung/aemter-und-behoerdengaenge/behoerden-und-dienstleistungen/dienststelle/referat-wissenspolitik-0117">Referat Wissenspolitik</a> der Stadt Leipzig.
 
-<h2>Stellungnahme S4F Leipzig zu zivilem Ungehorsam</h2>
+<h2>Stellungnahme Scientists for Future Leipzig zu zivilem Ungehorsam</h2>
 Als Scientists for Future Leipzig erachten wir die derzeitige Berichterstattung zur Dringlichkeit der
 Klimakrise als unzureichend. Ziviler Ungehorsam ist grundsätzlich dazu in der Lage, diesem Defizit
 durch medienwirksame Aktionen zu begegnen. Deshalb erachten wir zivilen Ungehorsam unter
