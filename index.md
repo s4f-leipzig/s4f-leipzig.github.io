@@ -27,7 +27,7 @@ folgenden Voraussetzungen als ein probates Mittel, um auf die Klimakrise hinzuwe
 Prinzip der Gewaltfreiheit halten wir es für wichtig, dass die Aktionsform dazu geeignet ist, die
 Sympathie von breiten Teilen der Bevölkerung zu erlangen und dabei einen konkreten, erkennbaren
 Zusammenhang zu den Akteuren des fossilen „Weiter so!“ herzustellen. Insbesondere Aktionen,
-welche die Narrative des Gemeinwohls stärken, erachten wir als besonders unterstützenswert.
+welche die Narrative des Gemeinwohls stärken, erachten wir als besonders unterstützenswert.<br>
 
 Wir als <i>Scientists for Future Leipzig</i> möchten der gegen die Zerstörung ihrer Zukunft rebellierenden Menschen im in folgender Stellungnahme genanntem Rahmen unsere volle Solidarität aussprechen: <a href="https://s4f-leipzig.de/documents/Stellungnahme_zU_S4F_Leipzig.pdf"> Ausführliche Stellungnahme Scientists for Future Leipzig zu zivilem Ungehorsam</a>
 
