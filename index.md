@@ -6,6 +6,14 @@ title: Aktuelles
 <h2>14. Oktober: <a href="https://s4f-leipzig.de/podium/">Podium</a> zum Energiesparen</h2>
 In Zusammenarbeit mit dem Wissenschaftsfestival <a href="https://www.globe-festival.de/">globe22</a> sowie dem <a href="https://www.leipzig.de/buergerservice-und-verwaltung/aemter-und-behoerdengaenge/behoerden-und-dienstleistungen/dienststelle/referat-wissenspolitik-0117">Referat Wissenspolitik</a> der Stadt Leipzig findet von 18 bis 20 Uhr ein Podium im Rathaus rund um das Thema Energiesparen statt. Weitere Informationen sind auf der Unterseite der Podiumsveranstaltungen im Rathaus (<a href="https://s4f-leipzig.de/podium/">Link</a>).
 
+
+<h2>Stellungnahme Scientists for Future Leipzig zum Energie- und Klimaschutzprogramm der Stadt Leipzig</h2>
+
+<p>Die Scientists for Future Leipzig empfehlen dringend, sich bei der Entscheidung zu Zielen und Maßnahmen nicht nur an übergeordneten politischen Zielen, sondern auch an naturwissenschaftlichen Grenzen zu orientieren und das Wohl und die Rechte kommender Generationen und Menschen in anderen Teilen der Welt zu berücksichtigen.</p> 
+
+<a href="https://s4f-leipzig.de/documents/221010_Stellungnahme_EKSP.pdf">Link zu ausführlicher Stellungnahme Scientists for Future Leipzig zum EKSP</a>
+<a href="https://s4f-leipzig.de/documents/221010_Presseerklaerung.pdf">Link zur Presseerklaerung Scientists for Future Leipzig zum EKSP</a>
+
 <h2>Stellungnahme Scientists for Future Leipzig zu zivilem Ungehorsam</h2>
 
 <p>Als Scientists for Future Leipzig erachten wir die derzeitige Berichterstattung zur Dringlichkeit der Klimakrise als unzureichend. Ziviler Ungehorsam ist grundsätzlich dazu in der Lage, diesem Defizit durch medienwirksame Aktionen zu begegnen. Deshalb erachten wir zivilen Ungehorsam unter folgenden Voraussetzungen als ein probates Mittel, um auf die Klimakrise hinzuweisen: Neben dem Prinzip der Gewaltfreiheit halten wir es für wichtig, dass die Aktionsform dazu geeignet ist, die Sympathie von breiten Teilen der Bevölkerung zu erlangen und dabei einen konkreten, erkennbaren Zusammenhang zu den Akteuren des fossilen „Weiter so!“ herzustellen. Insbesondere Aktionen, welche die Narrative des Gemeinwohls stärken, erachten wir als besonders unterstützenswert.</p>
