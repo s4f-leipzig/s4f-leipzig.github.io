@@ -11,7 +11,7 @@ In Zusammenarbeit mit dem Wissenschaftsfestival <a href="https://www.globe-festi
 
 <p>Die Scientists for Future Leipzig empfehlen dringend, sich bei der Entscheidung zu Zielen und Maßnahmen nicht nur an übergeordneten politischen Zielen, sondern auch an naturwissenschaftlichen Grenzen zu orientieren und das Wohl und die Rechte kommender Generationen und Menschen in anderen Teilen der Welt zu berücksichtigen.</p> 
 
-<a href="https://s4f-leipzig.de/documents/221010_Stellungnahme_EKSP.pdf">Link zu ausführlicher Stellungnahme Scientists for Future Leipzig zum EKSP</a>
+<a href="https://s4f-leipzig.de/documents/221010_Stellungnahme_EKSP.pdf">Link zu ausführlicher Stellungnahme Scientists for Future Leipzig zum EKSP</a><br>
 <a href="https://s4f-leipzig.de/documents/221010_Presseerklaerung.pdf">Link zur Presseerklaerung Scientists for Future Leipzig zum EKSP</a>
 
 <h2>Stellungnahme Scientists for Future Leipzig zu zivilem Ungehorsam</h2>
