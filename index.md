@@ -1,8 +1,8 @@
 ---
 layout: landing
-title: Aktuelles
+title: Über uns
 ---
-
+<h2>Aktuelles</h2>
 <ul>
 <li>Stellungnahme Scientists for Future Leipzig zum Energie- und Klimaschutzprogramm der Stadt Leipzig (<a target="blank" href="https://s4f-leipzig.de/stellungnahmen">Link</a>)</li>
 
