@@ -22,7 +22,7 @@ Scientists for Future Regionalgruppe Leipzig
 
 <h2>Wissensplattform der Scientists for Future</h2>
 
-Die Scientists for Future sind eine Gruppe, die sich aus den zahlreichen Regionalgruppen zusammensetzt. Ein gemeinsames Projekt ist die Wissenplattform, welchen Sie unter diesem <a target="blank" href="https://info-de.scientists4future.org/">Link</a> finden.  
+Die Scientists for Future sind eine Gruppe, die sich aus den zahlreichen Regionalgruppen zusammensetzt. Ein gemeinsames Projekt ist die Wissenplattform, welchen Sie unter diesem <a target="blank" href="https://info-de.scientists4future.org/">Link</a> finden. Dort finden Sie aufbereitetes Material für alle, die sich in Sachen Klima-, Biodiversitäts- und Nachhaltigkeitskrise engagieren.  
 
 
 <h2>Spenden</h2>
