@@ -44,7 +44,7 @@ Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiese
 
 <h3 id="Partner"><b>Wir bedanken uns beim simul+Mitmachfond für die finanzielle Unterstützung für 2023</b></h3>
 <p align="center">
-<a href="https://www.simulplusmitmachfonds.de/de/index.html" target="blank"><img height="150px" src="/images/Logo_Simul+Mitmachfond.png">
+<a href="https://www.simulplusmitmachfonds.de/de/index.html" target="blank"><img height="150px" src="/images/Logo_Simul+Mitmachfond.png"></a>
 </p>
 
 <hr>
