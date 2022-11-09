@@ -23,7 +23,7 @@ Mit dem Salon der Zukunft möchten die Scientists for Future Leipzig zusammen mi
 </p>
 
 
-Der nächste Salon der Zukunft findet am 14. Januar 2023. Thema wird sein: "Wohnraum für Menschen statt für Profite". Los geht es um 15 Uhr in der Trinitatiskirche Anger-Crottendorf. Den musikalischen Rahmen wird ein Jazz-Ensemble unter Leitung von Jörn Kleinbrahm geben. Wir freuen uns auf ihren Besuch! 
+Der nächste Salon der Zukunft findet am 14. Januar 2023 statt. Thema wird sein: "Wohnraum für Menschen statt für Profite". Los geht es um 15 Uhr in der Trinitatiskirche Anger-Crottendorf. Den musikalischen Rahmen wird ein Jazz-Ensemble unter Leitung von Jörn Kleinbrahm geben. Wir freuen uns auf ihren Besuch! 
 
 Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiesen werden möchten kontaktieren Sie uns unter: s&#x61;lo&#110;d&#101;rzuku&#110;ft<img src="/images/symbol-add.png" height="10px" alt="&#x40;" style="margin:0px +1px -1px +1px;border-style:none;">post&#101;o.d&#101; Es gibt einen barrierefreien Zugang für Rollstuhlfahrer zu den Veranstaltungsräumen in der Trinitatiskirche Anger-Crottendorf.
 
