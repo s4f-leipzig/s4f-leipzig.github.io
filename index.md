@@ -5,9 +5,9 @@ title: Über uns
 <h2>Aktuelles</h2>
 <ul>
 <li>03.12. Workshop: Wissenschaft auf Podium / Infos unter <a target="blank" href="https://s4f-leipzig.de/documents/Workshop_001.pdf">Link (.pdf)</a></li>
-<li>Stellungnahme Scientists for Future Leipzig zum Energie- und Klimaschutzprogramm der Stadt Leipzig (<a target="blank" href="https://s4f-leipzig.de/stellungnahmen">Link (.pdf)</a>)</li>
+<li>Stellungnahme Scientists for Future Leipzig zum Energie- und Klimaschutzprogramm der Stadt Leipzig: <a target="blank" href="https://s4f-leipzig.de/stellungnahmen">Link</a></li>
 
-<li>Stellungnahme Scientists for Future Leipzig zu zivilem Ungehorsam (<a target="blank" href="https://s4f-leipzig.de/documents/221010_Presseerklaerug.pdf">Link</a>)
+<li>Stellungnahme Scientists for Future Leipzig zu zivilem Ungehorsam: <a target="blank" href="https://s4f-leipzig.de/documents/221010_Presseerklaerug.pdf">Link (.pdf)</a>
 </li></ul>
 
 <h2>Wer sind Scientists for Future Leipzig?</h2>
