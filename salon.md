@@ -8,6 +8,7 @@ permalink: /salon/
 Samstag, 14. Januar 2023, 15:00-17:00 Uhr<br>
 Trinitatiskirche Anger-Crottendorf<br>
 Theodor-Neubauer-Str. 16, 04318 Leipzig<br>
+Thema: Wohnraum für Menschen statt für Profite<br>
 kostenloses Kulturangebot  
 </b>
 
