@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<h2>Stellungnahme Scientists for Future Leipzig zu Lützerath</h2>
+
+Wir als <i>Scientists for Future Leipzig</i> möchten gegen die Zerstörung von Lützerath Stellung nehmen und den Aktivist:innen vor Ort unsere Unterstützung aussprechen: <a target="blank" href="https://s4f-leipzig.de/documents/PM_Luetzerath_S4F-Leipzig.pdf">Stellungnahme S4F-Leipzig zu Lützerath</a>
+
 <h2>Stellungnahme Scientists for Future Leipzig zum Energie- und Klimaschutzprogramm der Stadt Leipzig</h2>
 
 <p>Die Scientists for Future Leipzig empfehlen dringend, sich bei der Entscheidung zu Zielen und Maßnahmen nicht nur an übergeordneten politischen Zielen, sondern auch an naturwissenschaftlichen Grenzen zu orientieren und das Wohl und die Rechte kommender Generationen und Menschen in anderen Teilen der Welt zu berücksichtigen.</p> 
