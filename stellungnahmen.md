@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<h2>Stellungnahme Scientists for Future Leipzig zum Holzberg-Biotop</h2>
+
+Wir als <i>Scientists for Future Leipzig</i> sprechen uns ausdrücklich gegen die kommerzielle Nutzung und die damit einhergehende Zerstörung des Holzber-Biotops (geplante Verfüllung mit Erdaushub durch die Firma KAFRIL) aus: <a target="blank" href="https://s4f-leipzig.de/documents/Stellungnahme_Holzberg_S4F.pdf">Stellungnahme S4F-Leipzig zum Holzberg-Biotop</a>
 <h2>Stellungnahme Scientists for Future Leipzig zu Lützerath</h2>
 
 Wir als <i>Scientists for Future Leipzig</i> möchten gegen die Zerstörung von Lützerath Stellung nehmen und den Aktivist:innen vor Ort unsere Unterstützung aussprechen: <a target="blank" href="https://s4f-leipzig.de/documents/PM_Luetzerath_S4F-Leipzig.pdf">Stellungnahme S4F-Leipzig zu Lützerath</a>
