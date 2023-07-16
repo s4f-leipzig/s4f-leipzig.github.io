@@ -49,6 +49,3 @@ Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiese
 <p align="center">
 <a href="https://www.simulplusmitmachfonds.de/de/index.html" target="blank"><img width="600" src="/images/2022-11-21-Simul+Mitmachfond.jpg"></a>
 </p>
-</p>
-
-Eines ist klar: Entweder wird es zukünftig verstärkt zu Konflikten zwischen Arm und Reich kommen oder wir schaffen es uns als Menschheit zusammenzuraufen, um den Klimawandel soweit zu verlangsamen, dass es eine Zukunft für alle geben kann.
