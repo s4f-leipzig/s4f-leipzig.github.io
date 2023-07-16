@@ -24,7 +24,7 @@ Mit dem Salon der Zukunft möchten die Scientists for Future Leipzig und Churche
 </p>
 
 
-Der nächste Salon der Zukunft findet am 1. Oktober 2023 von 15 bis 17 Uhr statt. Zusammen mit der Letzten Generation wird es darum gehen, welche Rolle ziviler Ungehorsam im gesellschaftlichen Wandel spielt und wie uns ein Gesellschaftsrat auf dem Weg zu einer stärkeren Klimapolitik helfen kann. Musikalisch wird die Veranstaltung durch die Band Nickos Tsiolchas & Friends eingerahmt werden. Wir freuen uns auf ihren Besuch! 
+Der nächste Salon der Zukunft findet am 1. Oktober 2023 von 15 bis 17 Uhr in der Trinitatiskirche in Anger-Crottendorf statt. Zusammen mit der Letzten Generation wird es darum gehen, welche Rolle ziviler Ungehorsam im gesellschaftlichen Wandel spielt und wie uns ein Gesellschaftsrat auf dem Weg zu einer stärkeren Klimapolitik helfen kann. Musikalisch wird die Veranstaltung durch die Band Nickos Tsiolchas & Friends eingerahmt werden. Wir freuen uns auf ihren Besuch! 
 
 Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiesen werden möchten kontaktieren Sie uns unter: s&#x61;lo&#110;d&#101;rzuku&#110;ft<img src="/images/symbol-add.png" height="10px" alt="&#x40;" style="margin:0px +1px -1px +1px;border-style:none;">post&#101;o.d&#101; Es gibt einen barrierefreien Zugang für Rollstuhlfahrer zu den Veranstaltungsräumen in der Trinitatiskirche Anger-Crottendorf.
 
