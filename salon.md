@@ -5,10 +5,10 @@ permalink: /salon/
 ---
 
 <b>Nächster Termin:<br> 
-Sonntag, 26. März 2023, 15:00-17:00 Uhr<br>
+Sonntag, 1. Oktober 2023, 15:00-17:00 Uhr<br>
 Trinitatiskirche Anger-Crottendorf<br>
 Theodor-Neubauer-Str. 16, 04318 Leipzig<br>
-Thema: Agrarwende vor den Toren unserer Stadt<br>
+Thema: Mehr als kleben: Im Austausch mit der Letzten Generation<br>
 kostenloses Kulturangebot  
 </b>
 
@@ -24,7 +24,7 @@ Mit dem Salon der Zukunft möchten die Scientists for Future Leipzig und Churche
 </p>
 
 
-Der nächste Salon der Zukunft findet am 26. März 2023 statt. Thema wird sein: "Agrarwende vor den Toren unserer Stadt". Los geht es um 15 Uhr in der Trinitatiskirche Anger-Crottendorf. Den musikalischen Rahmen wird ein Jazz-Ensemble unter Leitung von Jörn Kleinbrahm geben. Wir freuen uns auf ihren Besuch! 
+Der nächste Salon der Zukunft findet am 1. Oktober 2023 von 15 bis 17 Uhr statt. Zusammen mit der Letzten Generation wird es darum gehen, welche Rolle ziviler Ungehorsam im gesellschaftlichen Wandel spielt und wie uns ein Gesellschaftsrat auf dem Weg zu einer stärkeren Klimapolitik helfen kann. Musikalisch wird die Veranstaltung durch die Band Nickos Tsiolchas & Friends eingerahmt werden. Wir freuen uns auf ihren Besuch! 
 
 Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiesen werden möchten kontaktieren Sie uns unter: s&#x61;lo&#110;d&#101;rzuku&#110;ft<img src="/images/symbol-add.png" height="10px" alt="&#x40;" style="margin:0px +1px -1px +1px;border-style:none;">post&#101;o.d&#101; Es gibt einen barrierefreien Zugang für Rollstuhlfahrer zu den Veranstaltungsräumen in der Trinitatiskirche Anger-Crottendorf.
 
@@ -48,25 +48,6 @@ Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiese
 <p align="center">
 <a href="https://www.simulplusmitmachfonds.de/de/index.html" target="blank"><img width="600" src="/images/2022-11-21-Simul+Mitmachfond.jpg"></a>
 </p>
-
-<hr>
-
-<h3 id="ACA"><b>Zur Einstimmung auf den nächsten Salon der Zukunft</b></h3>
-
-Nichts macht so sehr den Klimawandel persönlich erfahrbar wie eine Hitzewelle. Diesen Sommer wurden in Deutschland erneut Höchstwerte von knapp 40 °C  erreicht. Insbesondere Städte wie Leipzig sind davon betroffen, da große versiegelte Flächen durch den Wärmeinseleffekt die Temperaturen zusätzlich steigen lassen. Während einige das Privileg klimatisierter Räume haben, müssen andere mit ihrem Leben  bezahlen. Zwischen 2018 und 2020 sind in Deutschland mehr als 19.000 Menschen an den Auswirkungen der Hitzewellen gestorben. 
-
-Alle sieben Jahre fasst der Weltklimarat (IPCC) den aktuellen Stand der Wissenschaft zum Klimawandel in seinen Sachstandsberichten zusammen. Die Zusammenfassungen für politische Entscheidungsträger:innen, die in allen Sachstandsberichten enthalten sind, werden dabei Satz für Satz von den Regierungen in einer Vollversammlung unter dem Vorsitz der Wissenschaftler:innen verabschiedet. Dadurch wird ein Standard erreicht, der sich in den Prognosen eher als zu optimistisch für die Menschheit erweist.   
-
-Der letzte Weltklimarat 2021/2022 kam dabei zu folgendem Fazit: 1,5 °C  Erderwärmung wird in weniger als  10 Jahren wohl erreicht sein. Selbst eine Erderwärmung auf unter 2,0 °C zu beschränken wird in naher Zukunft unwahrscheinlich, sofern zeitnah keine signifikante Trendumkehr erfolgt. Würden alle derzeitigen Zusagen zum Pariser Klimaabkommen eingehalten werden, würde dies zu einer Erderwärmung von ca. 2,5 °C führen. Was heißt das konkret?
-
-Auf 34,1 % der Landfläche wird es so heiß sein, dass Menschen an mindestens 20 Tagen im Jahr nicht mehr ohne Risiko vor die Tür gehen können. Legt man die aktuelle globale Bevölkerungsverteilung zugrunde, sind davon mehr als 50% der Menschheit betroffen. Während Europa diesbezüglich verschont wird, wird in großen Teilen der USA und China in mehr als 50 Tagen die Grenze zur tödlichen Hitze überschritten werden. Am meisten müssen jedoch die Menschen am Äquator darunter leiden, diejenigen, die am wenigsten zur Klimakrise beigetragen haben. Nichtsdestotrotz wird die Zahl der Hitzetoten auch in Deutschland weiter steigen, wovon insbesondere ältere Menschen oder Menschen mit Gefäßkrankheiten betroffen sein werden. Dabei ist hervorzuheben, dass in unseren Breiten der Anstieg der Durchschnittstemperatur deutlich über 2,5 °C liegen wird. Schon jetzt ist der Jahresdurchschnitt um knapp 2,0 °C gegenüber 1960 erhöht.
-
-In Europa wird sich noch ein weiteres Problem deutlich bemerkbar machen: Dürren. Das  Helmholtz Zentrum für Umweltforschung aus Leipzig hat vor kurzem eine Studie dazu heraus gebracht. Bei einer Erderwärmung von ca. 2,5 °C  werden sich Dürreperioden, wie wir sie von 2018 bis 2020 kennen, voraussichtlich auf durchschnittlich 100 Monate ausdehnen und 50% von Europa betreffen. Insbesondere in Südeuropa wird die Wasserversorgung ein großes Problem werden. Aber auch in Deutschland werden wir uns langfristig auf Wassersparmaßnahmen im Alltag einstellen müssen.
-
-Zudem gibt es Herausforderungen jenseits der ökologischen Krisen. Ein Blick auf die Alterspyramide Deutschlands zeigt: Unsere Gesellschaft wird in den nächsten Jahren vor enorme Herausforderungen gestellt. Derzeit gibt es 16,6 Millionen Menschen im Alter von 67+ Lebensjahren. Dies entspricht 20 %  der Bevölkerung. Bis 2040 wird sich diese Anzahl voraussichtlich auf 21,4 Millionen erhöhen und 26% der Bevölkerung ausmachen. Damit stellt sich die Frage, wie Altersarmut in breiten Teilen der Bevölkerung verhindert werden kann. Zudem gibt es schon jetzt einen Mangel an Pflegekräften in  Altersheimen und Krankenhäusern.
-
-<p align="center">
-<img id="Altersverteilung" src="/images/Altersverteilung.png" width="400">
 </p>
 
 Eines ist klar: Entweder wird es zukünftig verstärkt zu Konflikten zwischen Arm und Reich kommen oder wir schaffen es uns als Menschheit zusammenzuraufen, um den Klimawandel soweit zu verlangsamen, dass es eine Zukunft für alle geben kann.
