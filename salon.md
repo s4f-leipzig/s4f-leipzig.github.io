@@ -8,7 +8,7 @@ permalink: /salon/
 Sonntag, 1. Oktober 2023, 15:00-17:00 Uhr<br>
 Trinitatiskirche Anger-Crottendorf<br>
 Theodor-Neubauer-Str. 16, 04318 Leipzig<br>
-Thema: Mehr als kleben: Im offenen Dialog mit der Letzten Generation<br>
+Thema: Im Austausch mit der Letzten Generation<br>
 kostenloses Kulturangebot  
 </b>
 
