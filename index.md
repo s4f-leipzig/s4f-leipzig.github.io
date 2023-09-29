@@ -4,10 +4,8 @@ title: Über uns
 ---
 <h2>Aktuelles</h2>
 <ul>
-<li>Stellungnahme Scientists for Future Leipzig zum Holzberg-Biotop: <a target="blank" href="https://s4f-leipzig.de/documents/Stellungnahme_Holzberg_S4F.pdf">Link (.pdf)</a>
+<li>Presseerklärung zum Salon der Zukunft am 1. Oktober anlässlich der mangelnden Zusage der CDU-Stadtratsfraktion zu einer Podiumsteilnahme inklusive Eingangsstatement zur Letzten Generation: <a target="blank" href="https://s4f-leipzig.de/documents/20230929-Presseerklaerung.pdf">Link (.pdf)</a>
 </li>
-  
-<li>Stellungnahme Scientists for Future Leipzig zum Energie- und Klimaschutzprogramm der Stadt Leipzig: <a target="blank" href="https://s4f-leipzig.de/documents/221010_Stellungnahme_EKSP.pdf">Link (.pdf)</a></li>
 </ul>
 
 <h2>Wer sind Scientists for Future Leipzig?</h2>
