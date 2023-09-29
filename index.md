@@ -4,7 +4,7 @@ title: Über uns
 ---
 <h2>Aktuelles</h2>
 <ul>
-<li>Presseerklärung zum Salon der Zukunft am 1. Oktober anlässlich der mangelnden Zusage der CDU-Stadtratsfraktion zu einer Podiumsteilnahme inklusive Eingangsstatement zur Letzten Generation: <a target="blank" href="https://s4f-leipzig.de/documents/20230929-Presseerklaerung.pdf">Link (.pdf)</a>
+<li>Presseerklärung vom 29. September 2023 zum Salon der Zukunft am 1. Oktober anlässlich der mangelnden Zusage der CDU-Stadtratsfraktion zu einer Podiumsteilnahme inklusive Eingangsstatement zur Letzten Generation: <a target="blank" href="https://s4f-leipzig.de/documents/20230929-Presseerklaerung.pdf">Link (.pdf)</a>
 </li>
 </ul>
 
