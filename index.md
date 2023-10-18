@@ -4,6 +4,15 @@ title: Über uns
 ---
 <h2>Aktuelles</h2>
 <ul>
+<li><b>Leserbrief unseres Mietglieds Christoph Gerhards veröffentlicht in der LVZ am 17. Oktober 2023:<br> 
+Aufruf zur Missachtung des deutschen Rechts</b><br>
+Sachsens Ministerpräsident Michael Kretschmer (CDU) hat sich dafür ausgesprochen, die Klimaziele flexibel zu halten. Diese sind jedoch aus dem gültigen Klimaschutzgesetz abgeleitet, welches
+nach einem Urteil des Bundesverfassungsgerichtes nachgebessert wurde, da die alten geringeren Ziele die Freiheit künftiger Generationen einschränken. Damit ruft der Ministerpräsident
+zur Missachtung des deutschen Rechts und auch des völkerrechtlich bindenden Pariser Klimaschutzabkommen auf. Er ist dabei leider kein Einzelfall, auch die Bundesregierung verabschiedete aufgrund der Blockade insbesondere der FDP ein nach Urteil des Sachverständigenrates unzureichendes Maßnahmenpaket. Statt Maßnahmen zur Einhaltung der gesetzlich festgeschrieben Klimaziele einzuleiten, sollen die Ziele geändert
+werden. Dies ist im krassen Gegensatz zum Umgang mit einigen Klimaaktivist:innen. Weil sie medienwirksam mit friedlichem zivilem Ungehorsam auf die Einhaltung des Gesetzes drängen, werden sie teilweise als kriminelle Vereinigung bezeichnet und Ermittlungen eingeleitet, teilweise zu Haftstrafen verurteilt oder sogar wie in Bayern präventiv eingesperrt. Mich macht dies wütend und ich mache mir große Sorgen um
+den Fortbestand der Demokratie und Freiheitsrechte künftiger Generationen. Was ist es für ein Politikverständnis, wenn Rechte anderer missachtet und Proteste unterdrückt werden, nur damit man
+möglichst wenig ändern muss? Ich wünsche mir, ein Land, in dem Politikerinnen für die Rechte anderer eintreten, sich an gültige Gesetze halten und versuchen eine Mehrheit zur Gestaltung des notwendigen Wandels zu gewinnen, statt durch Blockade ein gutes Leben auch für zukünftige Generationen zu verhindern.  
+</li> 
 <li>Presseerklärung vom 29. September 2023 zum Salon der Zukunft am 1. Oktober anlässlich der mangelnden Zusage der CDU-Stadtratsfraktion zu einer Podiumsteilnahme inklusive Eingangsstatement zur Letzten Generation: <a target="blank" href="https://s4f-leipzig.de/documents/20230929-Presseerklaerung.pdf">Link (.pdf)</a>
 </li>
 </ul>
