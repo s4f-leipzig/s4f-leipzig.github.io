@@ -38,7 +38,7 @@ Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiese
 <a href="https://esg-leipzig.de/uber-uns/arbeitskreise/churches-for-future-leipzig/" target="blank"><img height="100px" src="/images/Logo_CFF.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.dresdner59.de/" target="blank"><img height="100px" src="/images/Logo-Dresdner59.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.ostlichter-leipzig.de/" target="blank"><img height="100px" src="/images/Logo_Ostlichter.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://www.ostlichter-leipzig.de/" target="blank"><img height="100px" src="/images/Logo_Ostlichter.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://www.ostwache.org/" target="blank"><img height="100px" src="/images/Logo_Ostwache.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://s4f-leipzig.de/" target="blank"><img height="100px" src="/images/s4f_logo_leipzig.png"></a>
 </p>
