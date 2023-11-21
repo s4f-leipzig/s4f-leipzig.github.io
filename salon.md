@@ -5,10 +5,10 @@ permalink: /salon/
 ---
 
 <b>Nächster Termin:<br> 
-Sonntag, 1. Oktober 2023, 15:00-17:00 Uhr<br>
+Sonntag, 28. Januar 2023, 15:00-17:00 Uhr<br>
 Trinitatiskirche Anger-Crottendorf<br>
 Theodor-Neubauer-Str. 16, 04318 Leipzig<br>
-Thema: Im Austausch mit der Letzten Generation<br>
+Thema: Teilen statt Horten<br>
 kostenloses Kulturangebot  
 </b>
 
@@ -24,7 +24,7 @@ Mit dem Salon der Zukunft möchten die Scientists for Future Leipzig und Churche
 </p>
 
 
-Der nächste Salon der Zukunft findet am 1. Oktober 2023 von 15 bis 17 Uhr in der Trinitatiskirche in Anger-Crottendorf statt. Diesmal steht der kritische Dialog mit der Letzten Generation im Zentrum der Veranstaltung. Was sind die Forderungen der Letzten Generation? Welche Rolle kann ziviler Widerstand bei der Transformation spielen? Sind die Aktionen der letzten Generation berechtigt oder gibt es eine Grenze, die nicht überschritten werden sollte? Darüber wollen wir miteinander ins Gespräch kommen. Musikalisch wird die Veranstaltung durch die Band Nickos Tsiolchas and Friends eingerahmt werden. Wir freuen uns auf ihren Besuch! 
+Der nächste Salon der Zukunft findet am 28. Januar 2023 von 15 bis 17 Uhr in der Trinitatiskirche in Anger-Crottendorf statt. Eingerahmt von Folk for Future unter der künstlerischen Leitung von Peggy Luck geht es um das Thema "Teilen statt Horten". Der Ausgang findett bei Wein und Wasser statt. Wir freuen uns auf ihren Besuch! 
 
 Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiesen werden möchten kontaktieren Sie uns unter: s&#x61;lo&#110;d&#101;rzuku&#110;ft<img src="/images/symbol-add.png" height="10px" alt="&#x40;" style="margin:0px +1px -1px +1px;border-style:none;">post&#101;o.d&#101; Es gibt einen barrierefreien Zugang für Rollstuhlfahrer zu den Veranstaltungsräumen in der Trinitatiskirche Anger-Crottendorf.
 
@@ -42,11 +42,4 @@ Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiese
 <a href="https://www.ostwache.org/" target="blank"><img height="100px" src="/images/Logo_Ostwache.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://s4f-leipzig.de/" target="blank"><img height="100px" src="/images/s4f_logo_leipzig.png"></a>
 </p>
-
-<hr>
-
-<h3 id="Finanzing"><b>Wir bedanken uns beim simul+Mitmachfond für die finanzielle Unterstützung für 2023</b></h3>
-<p align="center">
-<a href="https://www.simulplusmitmachfonds.de/de/index.html" target="blank"><img width="600" src="/images/2022-11-21-Simul+Mitmachfond.jpg"></a>
- 
 </p>
