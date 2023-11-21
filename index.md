@@ -13,8 +13,6 @@ werden. Dies ist im krassen Gegensatz zum Umgang mit einigen Klimaaktivist:innen
 den Fortbestand der Demokratie und Freiheitsrechte künftiger Generationen. Was ist es für ein Politikverständnis, wenn Rechte anderer missachtet und Proteste unterdrückt werden, nur damit man
 möglichst wenig ändern muss? Ich wünsche mir, ein Land, in dem Politikerinnen für die Rechte anderer eintreten, sich an gültige Gesetze halten und versuchen eine Mehrheit zur Gestaltung des notwendigen Wandels zu gewinnen, statt durch Blockade ein gutes Leben auch für zukünftige Generationen zu verhindern.  
 </li> 
-<li><b>Presseerklärung vom 29. September 2023 zum Salon der Zukunft am 1. Oktober anlässlich der mangelnden Zusage der CDU-Stadtratsfraktion zu einer Podiumsteilnahme inklusive Eingangsstatement zur Letzten Generation:</b> <a target="blank" href="https://s4f-leipzig.de/documents/20230929-Presseerklaerung.pdf">Link (.pdf)</a>
-</li>
 </ul>
 
 <h2>Wer sind Scientists for Future Leipzig?</h2>
