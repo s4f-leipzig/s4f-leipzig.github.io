@@ -5,10 +5,10 @@ permalink: /salon/
 ---
 
 <b>Nächster Termin:<br> 
-Sonntag, 28. Januar 2023, 15:00-17:00 Uhr<br>
+Samstag, 20. April 2024, 15:00-17:00 Uhr<br>
 Trinitatiskirche Anger-Crottendorf<br>
 Theodor-Neubauer-Str. 16, 04318 Leipzig<br>
-Thema: Teilen statt Horten<br>
+Thema: Gemeinwohlökonomie: Ein Ansatz für den Wandel <br>
 kostenloses Kulturangebot  
 </b>
 
@@ -24,7 +24,7 @@ Mit dem Salon der Zukunft möchten die Scientists for Future Leipzig und Churche
 </p>
 
 
-Der nächste Salon der Zukunft findet am 28. Januar 2023 von 15 bis 17 Uhr in der Trinitatiskirche in Anger-Crottendorf statt. Eingerahmt von Folk for Future unter der künstlerischen Leitung von Peggy Luck geht es um das Thema "Teilen statt Horten". Der Ausklang findet bei Wein und Wasser statt. Wir freuen uns auf ihren Besuch! 
+Der nächste Salon der Zukunft findet am 20. April 2024 von 15 bis 17 Uhr in der Trinitatiskirche in Anger-Crottendorf statt. Eingerahmt von Folk for Future unter der künstlerischen Leitung von Peggy Luck geht es um die Gemeinwohlökonomie. Die Gemeinwohlökonomie beschreibt ein Wirtschaftsmodell, in dem wirtschaftliche Aktivitäten auf ein demokratisch definiertes Gemeinwohl ausgerichtet sind und am guten Leben aller Lebewesen gemessen werden. Der Ausklang findet bei Wein und Wasser statt. Wir freuen uns auf ihren Besuch! 
 
 Falls sie per e-Mail auf den nächsten Salon der Zukunft regelmäßig hingewiesen werden möchten kontaktieren Sie uns unter: s&#x61;lo&#110;d&#101;rzuku&#110;ft<img src="/images/symbol-add.png" height="10px" alt="&#x40;" style="margin:0px +1px -1px +1px;border-style:none;">post&#101;o.d&#101; Es gibt einen barrierefreien Zugang für Rollstuhlfahrer zu den Veranstaltungsräumen in der Trinitatiskirche Anger-Crottendorf.
 
