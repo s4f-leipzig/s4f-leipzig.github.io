@@ -128,6 +128,10 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 /* standard */
+.post {
+  text-align: justify;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
