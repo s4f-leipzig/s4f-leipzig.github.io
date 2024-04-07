@@ -4,7 +4,7 @@ title: Über uns
 ---
 <h2>Aktuelles</h2>
 <ul>
-<li><b>Leserbrief unseres Mietglieds Christoph Gerhards veröffentlicht in der LVZ am 17. Oktober 2023: 
+<li><b>Leserbrief unseres Mitglieds Christoph Gerhards veröffentlicht in der LVZ am 17. Oktober 2023: 
 Aufruf zur Missachtung des deutschen Rechts</b><br>
 Sachsens Ministerpräsident Michael Kretschmer (CDU) hat sich dafür ausgesprochen, die Klimaziele flexibel zu halten. Diese sind jedoch aus dem gültigen Klimaschutzgesetz abgeleitet, welches
 nach einem Urteil des Bundesverfassungsgerichtes nachgebessert wurde, da die alten geringeren Ziele die Freiheit künftiger Generationen einschränken. Damit ruft der Ministerpräsident
