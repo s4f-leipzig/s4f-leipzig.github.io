@@ -4,14 +4,8 @@ title: Über uns
 ---
 <h2>Aktuelles</h2>
 <ul>
-<li><b>Leserbrief unseres Mitglieds Christoph Gerhards veröffentlicht in der LVZ am 17. Oktober 2023: 
-Aufruf zur Missachtung des deutschen Rechts</b><br>
-Sachsens Ministerpräsident Michael Kretschmer (CDU) hat sich dafür ausgesprochen, die Klimaziele flexibel zu halten. Diese sind jedoch aus dem gültigen Klimaschutzgesetz abgeleitet, welches
-nach einem Urteil des Bundesverfassungsgerichtes nachgebessert wurde, da die alten geringeren Ziele die Freiheit künftiger Generationen einschränken. Damit ruft der Ministerpräsident
-zur Missachtung des deutschen Rechts und auch des völkerrechtlich bindenden Pariser Klimaschutzabkommen auf. Er ist dabei leider kein Einzelfall, auch die Bundesregierung verabschiedete aufgrund der Blockade insbesondere der FDP ein nach Urteil des Sachverständigenrates unzureichendes Maßnahmenpaket. Statt Maßnahmen zur Einhaltung der gesetzlich festgeschrieben Klimaziele einzuleiten, sollen die Ziele geändert
-werden. Dies ist im krassen Gegensatz zum Umgang mit einigen Klimaaktivist:innen. Weil sie medienwirksam mit friedlichem zivilem Ungehorsam auf die Einhaltung des Gesetzes drängen, werden sie teilweise als kriminelle Vereinigung bezeichnet und Ermittlungen eingeleitet, teilweise zu Haftstrafen verurteilt oder sogar wie in Bayern präventiv eingesperrt. Mich macht dies wütend und ich mache mir große Sorgen um
-den Fortbestand der Demokratie und Freiheitsrechte künftiger Generationen. Was ist es für ein Politikverständnis, wenn Rechte anderer missachtet und Proteste unterdrückt werden, nur damit man
-möglichst wenig ändern muss? Ich wünsche mir, ein Land, in dem Politikerinnen für die Rechte anderer eintreten, sich an gültige Gesetze halten und versuchen eine Mehrheit zur Gestaltung des notwendigen Wandels zu gewinnen, statt durch Blockade ein gutes Leben auch für zukünftige Generationen zu verhindern.  
+<li><b>Am 20. September zum Klimastreik auf die Eisenbahnstraße anläßlich des PARKing-Days</b><br>
+Am 20. September fallen Klimastreik und PARKing-Day zusammen. Aus diesem Anlass sind wir auf der Eisenbahnstraße, die zwischen dem Torgauerplatz und der Herrmann-Liebmann-Straße für den Autoverkehr von 15 bis 21 Uhgr gesperrt sein wird. In über 100 Parklücken sind Anregungen für Besucher*innen zu finden, wie Parkraum auch genutzt werden kann. Bei unserem Stand besteht die Möglichkeit sich über Defizite in der aktuellen Klimapolitik konkret zu informieren. Für Klimaneutralität bis 2045 müsste der motorisierte Individualverkehr um jährlich 0.17% sinken. Bisher steigt dieser jedoch an. (Quelle: Ariade Transformationstracker <a href="https://tracker.ariadneprojekt.de/de/" target="blank">Link</a>). Zeit das der PARKing-Day ein Erlebnisraum bietet, wie Parkplätze und Straßen auch alternativ genutzt werden können. Passend zum Weltkindertag, der ebenfalls am 20. September ist, wird es auch ganz viele Spielangebote geben, denn nichts ist schöner für Kinder als vor der Haustür einen Spielplatz anstatt eine lärmende Straße zu haben. Die Verkehrswende braucht Euch! Wir freuen uns auf Euren Besuch.         
 </li> 
 </ul>
 
