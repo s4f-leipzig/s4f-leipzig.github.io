@@ -6,11 +6,6 @@ permalink: /impressum
 
 ## Verantwortlich gemäß § 5 TMG und für den Inhalt nach § 55 Abs. 2 RStV
 
-S4F-Leipzig<br/>
-Hoyerstraße 11<br/>
-04229 Leipzig<br/>
-Deutschland
-
 Inhaltlich verantwortlich:<br/>
 Matthias Faust
 
