@@ -11,7 +11,7 @@ Matthias Faust
 
 E-Mail: leipzig[at]scientists4future.org<br/>
 
-Dieses Impressum gilt auch für die Scientists for Future Leipzig Auftritte auf [Twitter](https://twitter.com/S4F_Leipzig), [Facebook](https://www.facebook.com/scientists4futureLeipzig/) und [Instagram](https://www.instagram.com/s4f_le/)
+Dieses Impressum gilt auch für die Scientists for Future Leipzig Auftritte auf [X](https://x.com/S4F_Leipzig), [Facebook](https://www.facebook.com/scientists4futureLeipzig/) und [Instagram](https://www.instagram.com/s4f_le/).
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
