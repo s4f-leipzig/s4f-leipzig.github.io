@@ -5,7 +5,7 @@ title: Über uns
 <h2>Aktuelles</h2>
 <ul>
 <li><b>Klima im Rausch</b><br>
-Das weltweite Klima ist nicht mehr normal. Maurizio (Health 4 Future) und Dominic (Scientists 4 Future) bleiben entspannt und unterhalten sich über das Klima und was es für ihre Gäste, uns persönlich und die Menschheit bedeuten kann. Hören sie gerne einmal rein in die Beiträge von von "Klima im Rausch" von Radio Blau. <a href="https://www.radioblau.de/redaktion/klima-im-rausch/" target="blank">Link</a>.        
+Das weltweite Klima ist nicht mehr normal. Maurizio (Health 4 Future) und Dominic (Scientists 4 Future) bleiben entspannt und unterhalten sich über das Klima und was es für ihre Gäste, uns persönlich und die Menschheit bedeuten kann. Hören sie gerne einmal rein in die Beiträge von von "Klima im Rausch" von Radio Blau (<a href="https://www.radioblau.de/redaktion/klima-im-rausch/" target="blank">Link</a>).        
 </li> 
 </ul>
 
