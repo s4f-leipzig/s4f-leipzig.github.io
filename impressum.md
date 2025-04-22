@@ -11,7 +11,7 @@ Matthias Faust
 
 E-Mail: leipzig[at]scientists4future.org<br/>
 
-Dieses Impressum gilt auch für die Scientists for Future Leipzig Auftritte auf [X](https://x.com/S4F_Leipzig), [Facebook](https://www.facebook.com/scientists4futureLeipzig/), [Instagram](https://www.instagram.com/s4f_le/), [Bluesky](https://bsky.app/profile/s4f-leipzig.bsky.social) und [Mastodon](https://mastodir.de/profile/@s4f_le@climatejustice.global).
+Dieses Impressum gilt auch für die Scientists for Future Leipzig Auftritte auf [X](https://x.com/S4F_Leipzig), [Facebook](https://www.facebook.com/scientists4futureLeipzig/), [Instagram](https://www.instagram.com/s4f_le/), [Bluesky](https://bsky.app/profile/s4f-leipzig.bsky.social), [Mastodon](https://mastodir.de/profile/@s4f_le@climatejustice.global) und [YouTube](https://www.youtube.com/channel/UCdrwdImXfrD6Q-SUUTwhaow).
 
 ## Haftung für Links
 Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung überprüft und rechtswidrige Inhalte waren zu diesem Zeitpunkt nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
