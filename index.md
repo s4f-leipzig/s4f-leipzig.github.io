@@ -4,8 +4,8 @@ title: Über uns
 ---
 <h2>Aktuelles</h2>
 <ul>
-<li><b>Am 20. September zum Klimastreik auf die Eisenbahnstraße anläßlich des PARKing-Days</b><br>
-Am 20. September fallen Klimastreik und PARKing-Day zusammen. Aus diesem Anlass sind wir auf der Eisenbahnstraße, die zwischen dem Torgauer Platz und der Hermann-Liebmann-Straße für den Autoverkehr von 15 bis 21 Uhr gesperrt sein wird. In über 100 Parklücken sind Anregungen für Besucher*innen zu finden, wie Parkraum auch genutzt werden kann. Bei unserem Stand besteht die Möglichkeit sich über Defizite in der aktuellen Klimapolitik konkret zu informieren. Für Deutschlands Klimaneutralität bis 2045 müsste der motorisierte Individualverkehr um jährlich 0.17% sinken. Bisher steigt dieser jedoch an (Quelle: Ariadne Transformationstracker unter dem Szenario Technologiemix <a href="https://tracker.ariadneprojekt.de/de/" target="blank">Link</a>). Zeit, dass der PARKing-Day einen Erlebnisraum bietet, wie Parkplätze und Straßen auch alternativ genutzt werden können. Passend zum Weltkindertag, der ebenfalls am 20. September ist, wird es auch ganz viele Spielangebote geben, denn nichts ist schöner für Kinder als vor der Haustür einen Spielplatz anstatt eine lärmende Straße zu haben. Die Verkehrswende braucht Euch! Wir freuen uns auf Euren Besuch.         
+<li><b>Klima im Rausch</b><br>
+Das weltweite Klima ist nicht mehr normal. Maurizio (Health 4 Future) und Dominic (Scientists 4 Future) bleiben entspannt und unterhalten sich über das Klima und was es für ihre Gäste, uns persönlich und die Menschheit bedeuten kann. Hören sie gerne einmal rein in die Beiträge von von "Klima im Rausch" von Radio Blau. <a href="https://www.radioblau.de/redaktion/klima-im-rausch/" target="blank">Link</a>).        
 </li> 
 </ul>
 
