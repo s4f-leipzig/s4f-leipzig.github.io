@@ -31,5 +31,5 @@ jobs:
           git add adresse.png
           git commit -m "Deploy fresh adresse.png"
           git branch -M gh-pages
-          git remote add origin https://github.com/${{ github.repository }}
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}          
           git push --force origin gh-pages
