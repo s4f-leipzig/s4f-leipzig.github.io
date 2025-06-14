@@ -6,9 +6,6 @@ permalink: /impressum
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
-
-Matthias Faust
-
 ![Adresse](https://raw.githubusercontent.com/s4f-leipzig/s4f-leipzig.github.io/gh-pages/adresse.png)  
 
 E-Mail: leipzig[at]scientists4future.org<br/>
