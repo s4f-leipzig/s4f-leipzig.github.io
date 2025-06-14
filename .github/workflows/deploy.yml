@@ -1,4 +1,4 @@
-name: Deploy Impressum with Private Address
+name: Build Impressum with Address as Image
 
 on:
   push:
@@ -12,20 +12,28 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Install pandoc
-        run: sudo apt-get install -y pandoc
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y imagemagick pandoc gettext
 
-      - name: Create build folder
+      - name: Create build directory
         run: mkdir -p site
 
-      - name: Replace placeholder and convert to HTML
+      - name: Create image from address
         env:
           ADDRESS: ${{ secrets.ADDRESS_PLAIN }}
         run: |
-       #   sed "s/{{PRIVATE_ADDRESS}}/$ADDRESS/" impressum.md > site/impressum.md
+          echo "$ADDRESS" | convert -background white -fill black -font Helvetica -pointsize 16 text:- address.png
+          base64 address.png > address.b64
+
+      - name: Replace placeholder with Base64 image
+        run: |
+          IMAGE_DATA=$(cat address.b64 | tr -d '\n')
+          sed "s#\${ADDRESS_IMAGE}#<img src='data:image/png;base64,${IMAGE_DATA}' alt='Adresse'>#" impressum.md > site/impressum.md
+          pandoc site/impressum.md -f markdown -t html -o site/impressum.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
+          publish_branch: gh-pages
