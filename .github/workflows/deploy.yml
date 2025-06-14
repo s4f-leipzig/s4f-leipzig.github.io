@@ -21,8 +21,8 @@ jobs:
       - name: Replace placeholder and convert to HTML
         env:
           ADDRESS: ${{ secrets.ADDRESS_PLAIN }}
-        run: |
-          sed "s/{{PRIVATE_ADDRESS}}/$ADDRESS/" impressum.md > site/impressum.md
+      #  run: |
+       #   sed "s/{{PRIVATE_ADDRESS}}/$ADDRESS/" impressum.md > site/impressum.md
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
