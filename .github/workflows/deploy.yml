@@ -23,9 +23,9 @@ jobs:
           echo "$ADDRESS" | convert \
             -background white \
             -fill black \
-            -font Helvetica \
+            -font DejaVu-Sans \
             -pointsize 18 \
-            -interline-spacing 5 \
+            -interline-spacing 2 \
             -gravity northwest \
             text:- -trim +repage out/adresse.png
       - name: Force-push adresse.png to gh-pages branch (clean)
