@@ -20,8 +20,14 @@ jobs:
           ADDRESS: ${{ secrets.ADDRESS_PLAIN }}
         run: |
           mkdir out
-          echo "$ADDRESS" | convert -background white -fill black -font Helvetica -pointsize 16 text:- out/adresse.png
-
+          echo "$ADDRESS" | convert \
+            -background white \
+            -fill black \
+            -font Helvetica \
+            -pointsize 18 \
+            -interline-spacing 5 \
+            -gravity northwest \
+            text:- -trim +repage out/adresse.png
       - name: Force-push adresse.png to gh-pages branch (clean)
         run: |
           cd out
