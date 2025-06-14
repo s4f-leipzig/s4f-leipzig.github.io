@@ -20,6 +20,7 @@ jobs:
           ADDRESS: ${{ secrets.ADDRESS_PLAIN }}
         run: |
           mkdir out
+          convert -list font
           echo "$ADDRESS" | convert \
             -background white \
             -fill black \
