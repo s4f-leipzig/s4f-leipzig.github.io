@@ -8,7 +8,8 @@ permalink: /impressum
 
 
 Matthias Faust
-{{PRIVATE_ADDRESS}}  
+
+${ADDRESS_IMAGE}  
 
 E-Mail: leipzig[at]scientists4future.org<br/>
 
