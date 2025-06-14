@@ -2,7 +2,7 @@ name: Deploy Impressum with Private Address
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   build:
