@@ -1,48 +1,35 @@
-name: Deploy Jekyll site with private address (no history)
+name: Generate address image and push to gh-pages
 
 on:
   push:
-    branches: [master]  # oder 'main'
+    branches: [master]  # oder main
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout source
         uses: actions/checkout@v3
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y imagemagick gettext pandoc ruby-full
-          gem install bundler jekyll
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
 
       - name: Generate address image
         env:
           ADDRESS: ${{ secrets.ADDRESS_PLAIN }}
         run: |
-          echo "$ADDRESS" | convert -background white -fill black -font Helvetica -pointsize 16 text:- address.png
-          base64 address.png > address.b64
+          mkdir out
+          echo "$ADDRESS" | convert -background white -fill black -font Helvetica -pointsize 16 text:- out/adresse.png
 
-      - name: Generate impressum.md from template
+      - name: Force-push adresse.png to gh-pages branch (clean)
         run: |
-          IMAGE_DATA=$(cat address.b64 | tr -d '\n')
-          sed "s#\${ADDRESS_IMAGE}#<img src='data:image/png;base64,${IMAGE_DATA}' alt='Adresse'>#" impressum.template.md > impressum.md
-
-      - name: Build Jekyll site
-        run: |
-          bundle install || true
-          jekyll build
-
-      - name: Deploy to GitHub Pages with full overwrite
-        run: |
-          cd _site
+          cd out
           git init
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git add adresse.png
+          git commit -m "Deploy fresh adresse.png"
+          git branch -M gh-pages
           git remote add origin https://github.com/${{ github.repository }}
-          git checkout -b gh-pages
-          git add .
-          git commit -m "Deploy site with fresh history"
           git push --force origin gh-pages
